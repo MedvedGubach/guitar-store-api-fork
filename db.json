@@ -20,7 +20,8 @@
         "middle": "Player Series Stratocaster single coil",
         "bridge": "Player Series Stratocaster humbucker"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/789/78991/main_9a486311.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1841/184107/main_813c1de3.jpg",
@@ -52,7 +53,8 @@
         "middle": "Proprietary Single Coil",
         "bridge": "Proprietary Single Coil"
       },
-      "isOnSale": true,
+      "rating": 4,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/2863/286399/main_6343f6f3.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2864/286400/main_427f0b62.jpg",
@@ -85,7 +87,8 @@
         "middle": "",
         "bridge": "Humbucker"
       },
-      "isOnSale": true,
+      "rating": 5,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/6256/625697/main_b504a8bc.jpg",
         "https://muzikercdn.com/uploads/product_gallery/6256/625698/main_9a9f0857.jpg",
@@ -117,7 +120,8 @@
         "middle": "Proprietary Alnico Single Coil",
         "bridge": "Proprietary Alnico Humbucker"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/196/19613/main_c65761a5.jpg"
       ],
@@ -144,7 +148,8 @@
         "middle": "",
         "bridge": "CustomBucker"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2860/286000/main_8ad59f97.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2860/286002/main_1b7f9211.jpg",
@@ -175,7 +180,8 @@
         "middle": "",
         "bridge": "Yosemite single-coil"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/958/95853/main_d33cb12f.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2106/210628/main_781e2fc9.jpg",
@@ -207,7 +213,8 @@
         "middle": "",
         "bridge": "Seymour Duncan JB (open coil with blue bobbins)"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3904/390415/main_95dbc63d.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3904/390418/main_7bf1534a.jpg",
@@ -233,7 +240,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/240/24017/main_d2578f08.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1142/114244/main_2527a180.jpg",
@@ -257,7 +265,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5794/579464/main_24d52b29.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5794/579465/main_c353ac1f.jpg",
@@ -281,7 +290,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/311/31128/main_cf282148.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3329/332924/main_28433908.jpg",
@@ -313,7 +323,8 @@
         "middle": "",
         "bridge": "490T"
       },
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2669/266932/main_a863c04b.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2669/266933/main_3e40d2db.jpg",
@@ -344,7 +355,8 @@
         "middle": "",
         "bridge": "High output humbucker"
       },
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2591/259145/main_50fab521.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2591/259146/main_37824618.jpg",
@@ -376,7 +388,8 @@
         "middle": "",
         "bridge": "Proprietary Alnico Single Coil"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2954/295488/main_a8b7b34d.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2954/295489/main_018cba59.jpg",
@@ -408,7 +421,8 @@
         "middle": "",
         "bridge": "Proprietary Humbucker"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3871/387124/main_f0bc89ec.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3871/387125/main_0edb24e7.jpg",
@@ -439,7 +453,8 @@
         "middle": "",
         "bridge": "Proprietary Humbucker"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3871/387124/main_f0bc89ec.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3871/387125/main_0edb24e7.jpg",
@@ -470,7 +485,8 @@
         "middle": "",
         "bridge": "Yosemite single-coil"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2863/286364/main_d2d81959.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2863/286365/main_7a21eceb.jpg",
@@ -501,7 +517,8 @@
         "middle": "60s Strat",
         "bridge": "60s Strat"
       },
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2843/284381/main_2d32b8b8.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2843/284384/main_2c795226.jpg",
@@ -533,7 +550,8 @@
         "middle": "Seymour Duncan Single Coil",
         "bridge": "Seymour Duncan Single Coil"
       },
-      "isOnSale": false,
+      "rating": 3,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5965/596537/main_04b617d7.jpg",
         "https://muzikercdn.com/uploads/product_gallery/6562/656281/main_2fb3d5eb.jpg",
@@ -563,7 +581,8 @@
         "middle": "Pure Vintage 65 single-coil Strat",
         "bridge": "Pure Vintage 65 single-coil Strat"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/651/65161/main_0b841d34.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1690/169054/main_831a0381.jpg",
@@ -594,7 +613,8 @@
         "middle": "",
         "bridge": "490T"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2669/266917/main_ced8bcb9.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2669/266918/main_d923eca1.jpg",
@@ -625,7 +645,8 @@
         "middle": "",
         "bridge": "Epiphone Alnico Classic"
       },
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3871/387114/main_a78b9c0e.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3871/387115/main_96c7340a.jpg",
@@ -656,7 +677,8 @@
         "middle": "",
         "bridge": "Burstbucker"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2862/286233/main_68fbc388.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2862/286235/main_5c41e0a6.jpg",
@@ -682,7 +704,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/932/93218/main_43d92dd1.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2059/205928/main_40700013.jpg",
@@ -709,7 +732,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2742/274236/main_e00dcaa8.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2742/274238/main_055a5dfc.jpg",
@@ -737,7 +761,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/240/24016/main_4715f930.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1142/114241/main_04591e38.jpg",
@@ -762,7 +787,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3004/300411/main_e098a355.jpg",
         "https://muzikercdn.com/uploads/product_gallery/999/99900/main_34e0c79e.jpg"
@@ -785,7 +811,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": true,
+      "rating": 5,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/4863/486361/main_b818cc9b.jpg",
         "https://muzikercdn.com/uploads/product_gallery/4863/486362/main_6297a54f.jpg"
@@ -808,7 +835,8 @@
       "fret_number": 18,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 3,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3442/344250/main_2bb71f85.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3442/344251/main_5f4046eb.jpg",
@@ -835,7 +863,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2874/287484/main_8d97ff37.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2874/287491/main_39c69631.jpg",
@@ -861,7 +890,8 @@
       "fret_number": 20,
       "strings": 6,
 
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/95/9512/main_eb3cb732.jpg"
       ],
@@ -888,7 +918,8 @@
         "middle": "Fender Designed Designed Alnico Single-Coil",
         "bridge": "Fender Designed Wide Range Humbucking"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2580/258087/main_3f0589f1.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2580/258088/main_b3f773c5.jpg",
@@ -921,7 +952,8 @@
         "middle": "Standard single-coil",
         "bridge": "Standard humbucking"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2203/220347/main_6c113c84.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2222/222295/main_f3f7bf69.jpg"
@@ -949,7 +981,8 @@
         "middle": "Vintage Noiseless",
         "bridge": "Vintage Noiseless"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/789/78991/main_9a486311.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1841/184107/main_813c1de3.jpg",
@@ -981,7 +1014,8 @@
         "middle": "Vintage Noiseless",
         "bridge": "Vintage Noiseless"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3333/333366/main_affacb5d.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3333/333368/main_bd32c3f6.jpg",
@@ -1013,7 +1047,8 @@
         "middle": "Proprietary Alnico Single Coil",
         "bridge": "Proprietary Alnico Humbucker"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/196/19625/main_5782be8c.jpg"
       ],
@@ -1040,7 +1075,8 @@
         "middle": "Proprietary Alnico Single Coil",
         "bridge": "Proprietary Alnico Humbucker"
       },
-      "isOnSale": true,
+      "rating": 5,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/865/86510/main_072954d6.jpg"
       ],
@@ -1067,7 +1103,8 @@
         "middle": "",
         "bridge": "Epiphone Alnico Classic"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3871/387114/main_a78b9c0e.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3871/387115/main_96c7340a.jpg",
@@ -1098,7 +1135,8 @@
         "middle": "",
         "bridge": "Epiphone Alnico Classic"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/4097/409751/main_3ad040a3.jpg",
         "https://muzikercdn.com/uploads/product_gallery/4097/409752/main_3b6120c6.jpg",
@@ -1128,7 +1166,8 @@
         "middle": "",
         "bridge": "Epiphone Alnico Classic"
       },
-      "isOnSale": true,
+      "rating": 4,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/3861/386169/main_2ab6b8fc.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3861/386170/main_6f617c7d.jpg",
@@ -1159,7 +1198,8 @@
         "middle": "",
         "bridge": "Alnico single-coil"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5455/545591/main_ce9cde5e.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5455/545592/main_e6039878.jpg",
@@ -1189,7 +1229,8 @@
         "middle": "",
         "bridge": "Alnico single-coil"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5456/545610/main_e205ca4a.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5456/545611/main_d361b599.jpg",
@@ -1219,7 +1260,8 @@
         "middle": "",
         "bridge": "Yosemite single-coil"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2840/284065/main_18977e01.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2840/284066/main_69e94180.jpg",
@@ -1251,7 +1293,8 @@
         "middle": "",
         "bridge": "Yosemite single-coil"
       },
-      "isOnSale": true,
+      "rating": 5,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/3717/371754/main_1b2f2ffc.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3717/371755/main_5a01c336.jpg",
@@ -1283,7 +1326,8 @@
         "middle": "",
         "bridge": "Yosemite single-coil"
       },
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/790/79008/main_c64ded72.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1841/184188/main_36e649a1.jpg",
@@ -1315,7 +1359,8 @@
         "middle": "",
         "bridge": "Yosemite single-coil"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2864/286427/main_66ac51e9.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2864/286428/main_af00eee3.jpg",
@@ -1347,7 +1392,8 @@
         "middle": "",
         "bridge": "Burstbucker 61T"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3903/390359/main_05c35caa.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3903/390362/main_7249ce0f.jpg",
@@ -1378,7 +1424,8 @@
         "middle": "",
         "bridge": "Burstbucker 61T"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/4429/442971/main_8106c8c1.jpg",
         "https://muzikercdn.com/uploads/product_gallery/4429/442972/main_4df61987.jpg"
@@ -1406,7 +1453,8 @@
         "middle": "",
         "bridge": "Burstbucker 61T"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3862/386213/main_359d7a22.jpgg",
         "https://muzikercdn.com/uploads/product_gallery/3862/386214/main_84298fb4.jpg"
@@ -1434,7 +1482,8 @@
         "middle": "",
         "bridge": "Alnico single-coil"
       },
-      "isOnSale": false,
+      "rating": 3,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5455/545579/main_533ffe51.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5455/545580/main_0b7c2af1.jpg",
@@ -1464,7 +1513,8 @@
         "middle": "",
         "bridge": "Alnico single-coil"
       },
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5922/592245/main_f5e9095b.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5922/592246/main_f967bd78.jpg",
@@ -1481,7 +1531,8 @@
       "type": "Tube",
       "id": "12720",
       "desc": "The Fender '65 Deluxe Reverb Combo Amp has a sound big enough to cut through the muddiest mix, but it's small enough to turn up make the most of natural tube distortion in small clubs. This makes it the perfect studio amp, as well. It's a resurrection of a classic vintage tone monster, and its current iteration is used by many big-name bands, such as Flogging Molly, O.A.R. and Maroon 5. Crank up this faithful, U.S.-made reissue for your daily requirement of fat Fender tone. Delivers 22W through a 12' speaker. Features two channels (normal, vibrato), all-tube circuitry, tube vibrato, tube spring reverb, Blackface cosmetics and two-button footswitch to control the reverb and vibrato effects.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/70/7033/main_14da9625.jpg",
         "https://muzikercdn.com/uploads/product_gallery/999/99927/main_eb5bb6ca.jpg"
@@ -1501,7 +1552,8 @@
       "type": "Tube",
       "id": "301686",
       "desc": "Ripping a page from the supercharged high-gain distortion and spacious reverb of the popular Fender Bassbreaker 15, the 30-watt Bassbreaker 30R adds full channel-switching capability to allow for precise, individual control over your clean and distorted tones—while the built-in effects loop offers yet another dose of custom-tailored personality to your sound. Boasting a single 12” Celestion V-Type speaker, this easily portable combo amp packs quite the punch of distinctively crunchy Bassbreaker tone.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2439/243938/main_83c0e8b0.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2439/243939/main_0354cdd4.jpg",
@@ -1523,7 +1575,8 @@
       "type": "Tube",
       "id": "7281",
       "desc": "The Fender '65 Twin Reverb Amp is an authentic all-tube reproduction of the original classic! It has earned a reputation of being one of the cleanest tube amps ever, but it delivers a taste of the trademark Fender crunch when cranked up high. Delivers 85W through two Jensen 12' speakers. It has two channels, tube vibrato, tube spring reverb, tilt-back legs and Blackface cosmetics. Includes two-button footswitch to control reverb and vibrato effects. Order the optional Fender amp cover to protect your investment (see accessory box on this page).",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/45/4522/main_2e0411a8.jpg",
         "https://muzikercdn.com/uploads/product_gallery/988/98854/main_ab1f01c8.jpg"
@@ -1543,7 +1596,8 @@
       "type": "Tube",
       "id": "14573",
       "desc": "tremolo (speed and depth), 1x12' Celestion G12M Greenback Lautspreche valve, 2 x EL84 Poweramp valves. Control panel functions: input: Normal, control for volume, Standby. 2x rear speaker outputs, impedance switch (8/16 Ohm), dimensions: (W x D x H): 602 x 265 x 456 mm Weight: 22kg, 3x 12AX7 (ECC83) Preamp, treble, power socket, valve, reverb, Top Boost, bass, footswitch optional (198735 LEAD FOOT FS-2)",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/82/8204/main_ccd81f37.jpg"
       ],
@@ -1562,7 +1616,8 @@
       "type": "Tube",
       "id": "16152",
       "desc": "4 Inputs High &amp;amp; Low (Top Boost &amp;amp; Normal), Level, FX send FX Return, Footswitchjack (Tremolo and Reverb), Backside Output for external Cabinet x2 (Extension &amp;amp; External), Treble, Top Boost Volume, Tremolo Speed &amp;amp; Depth, dimensions: 702 x 265 x 556 mm (HxWxD), Reverb-Effect Tone, 2x 12 Celstion G12M Greenback speaker, Switch for 8/16 Ohm, Master Volume, control for Normal Volume, Tone Cut, Bass, weight: 32,2kg, footswitch optional (165749 VOX VFS2A or 198735 LEAD FOOT FS-2)",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/93/9316/main_4f8fd515.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1010/101017/main_2f5e2134.jpg"
@@ -1582,7 +1637,8 @@
       "type": "Tube",
       "id": "222633",
       "desc": "All-tube 10W guitar combo amplifier from AC10 Custom series that is a reproduction of the original AC10, one of the first amplifiers to bear the VOX name that has long been adored for his ability to achieve rich, articulate tube tone at very manageable volumes. More portable than the AC15 and more powerful than the AC4, the combo features the classic Top Boost tone circuit that provides an array of classic and modern tones. Now equipped with reverb and a master volume, it is the perfect companion for the home, studio or stage. The Top Boost tone can be further adjusted via Gain, Bass, Treble, Reverb and Volume controls. The combo is equipped with two 12AX7 and one EL84 tube, and a 10” Celestion VX10 speaker. Dimensions: 520 x 210 x 410 mm. Weight: 12.3 kg.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/342/34250/main_b5058610.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1275/127582/main_b2ed80e2.jpg",
@@ -1604,7 +1660,8 @@
       "type": "Tube",
       "id": "238249",
       "desc": "The VOX AC15 is the amp that started it all. Boasting both a Normal and Top Boost channel, the AC15 Custom is an all-tube, EL84 driven workhorse that delivers 15 watts of authentic British tone into your choice of a genuine Celestion Greenback speaker. The AC15 Custom also offers footswitchable spring reverb and classic VOX tremolo to enhance the already impressive sound. Adored by the biggest names in music for nearly 60 years, the VOX AC15 Custom carries on the tradition that began in 1958 and offers guitarists the unmistakable sound of VOX, with all the refinements of a modern amplifier. Vox have re-released many of their acclaimed series amplifiers in a limited edition colour, offering you an individual look. Featuring a new Limited Edition White Bronco look. Vox’s long tradition of limited edition custom colour amps have been extremely popular amongst Vox players for decades, due to their uniqueness and tonal abilities. Color: Limited Edition White Bronco.SpecsOutput Power:15 Watts RMS into 16 Ohms - Speaker:1 x 12' 16 ohm Celestion G12M Greenback (AC15C1) - Inputs:Normal input jack, Top Boost input jack, Footswitch jack - Outputs:External loudspeaker jack, Extension loudspeaker jack - Dimensions (W x D x H): 602 x 265 x 456 mm / 23.70 x 10.43 x 17.95 inches - Weight: 22 kg / 48.50 lbs.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/490/49097/main_578f8014.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1457/145745/main_30dd715b.jpg"
@@ -1624,7 +1681,8 @@
       "type": "Tube",
       "id": "309005",
       "desc": "The SV20C is an all valve handbuilt amp designed and built in the UK, to accurately recreate the classic Marshall tone. The SV20C combines the raw power of the 1959SLP and authentic voice of classic rock in a new portable style. The amp that first defined rock ‘n’ roll in the 60s has been revised for the present day, whilst remaining faithful to the original with its Plexi design and all-valve tone. Still considered a classic by scores of legendary guitarists, the SV20C lets you play like your heroes on stage, in the studio and at home. Portable and adaptable, the Studio Vintage Combo is suitable for the home with the option to switch between 20W and 5W at any time.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2644/264475/main_47b49f41.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2644/264476/main_83b75428.jpg",
@@ -1643,7 +1701,8 @@
       "type": "Tube",
       "id": "250505",
       "desc": "Portable 5-Watt amplifier for home use or small gigs equipped with 10' Celestion Ten-30 loudspeaker. Preamp tubes: 3 x ECC83, Power tube: 1 x 12BH7 / ECC99. Real valve tone with the organic warmth and response, adjustable power level, compact cabinet with a Celestion Ten-30 speaker for both portability and projection. The amplifier has 2 channels with classic gain and ultra gain for instant sound switching capability, alongside a versatile range of EQ controls (improved for 2018) that let you fully sculpt your sound, bass switch that complements a resonant bass boost, Softube emulated direct output - you can plug the output directly into a mixing desk or recording device and access a high-quality emulation. Ideal for no-fuss recording or for sending a direct signal to your front-of-house mixing desk. Serial FX Loop, Controls: Classic Gain: Gain/Volume, Ultra Gain: Gain/Volume, Tone Shift, Treble, Middle, Bass, Deep, Reverb. Footswitch included.",
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/606/60628/main_410190e9.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1639/163958/main_25558e01.jpg",
@@ -1664,7 +1723,8 @@
       "type": "Tube",
       "id": "250502",
       "desc": "Tube guitar combo Amp. The combo is equipped with an 8” Celestion Eight-15 speaker chosen for its ability to deliver exceptional tone at lower volumes. The DSL features two foot switchable channels: CLASSIC GAIN and ULTRA GAIN. The CLASSIC GAIN channel delivers sparkling clean sounds through to the more aggressive break-up of a Marshall JCM800 amplifier. The ULTRA GAIN channel provides even more distortion and break-up for players looking for higher gain tone from their amplifier. Both channels share a passive three-band EQ, with BASS, MIDDLE and TREBLE controls. The EQ section also features Tone Shift, which when activated reconfigures the pre-amp mid frequencies making DSL ideal for contemporary metal tones, especially when combined with higher gain settings. The DSL 1 features professional quality digital REVERB and a series FX LOOP, giving you rich valve tone at an ear-friendly volume. Footswitch included.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/606/60625/main_be5d8179.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1639/163956/main_37a9a02b.jpg",
@@ -1685,7 +1745,8 @@
       "type": "Solid State",
       "id": "221246",
       "desc": "2-channel transistor guitar combo from Crush series offering typical Orange sound. It features a 3-band EQ, pre-amplifier with high gain and sensitive overdrive, detailed tone saturation or distorted channel, similar to that of the iconic Rockerverb combo in the transistorized form. Combo offers the power of 20 W and is equipped with one 8' Voice of the World speaker. In addition, it is equipped with a built-in reverb, tuner, or Cabsim function that simulates massive tone of Orange 4 x 12 cabinet through the headphone output. It´s operated by Dirty Gain, Treble, Middle, Bass, Clean/Dirty Volume and Reverb potentiometers, channel switch or tuner switch. Combo has built-in a 1/4' instrument input, headphone output, AUX input or the footswitch input (not included). Dimensions: 375 x 325 x 197 mm, weight: 7.2 kg.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/329/32931/main_d168ad74.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1253/125395/main_73af9c21.jpg",
@@ -1706,7 +1767,8 @@
       "type": "Solid State",
       "id": "211156",
       "desc": "1 x 12', 60W Combo Guitar Amplifier with Digital Reverbs, and Effects Loop. Orange Amplifiers expands its line of solid-state Crush amps with new CR60C 60-watt 1 x 12' Combo. This Crush amp delivers more authentic Orange tone than ever, with both amp channels being designed after the Rockerverb. The clean channel sports two gain stages that start to break up when it's cranked, and the dirty channel uses four gain stages to deliver classic Orange overdrive tones.",
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/234/23432/main_29faea5e.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1136/113613/main_3692d0ad.jpg",
@@ -1726,7 +1788,8 @@
       "type": "Solid State",
       "id": "312045",
       "desc": "Speaker cabinet for the Boss Katana amplifier head. The versatile Katana Cabinet 212 is a companion cabinet for the popular Katana-Head guitar amplifier. BOSS’s special design provides enhanced bass response and rugged durability while keeping the weight down for easy mobility. The cabinet comes loaded with two custom 12-inch speakers that deliver powerful, punchy sound with rich, full bottom end, offering exceptional performance for tones from super-clean to ultra-heavy. And with the detachable back panel section, you can easily go from a tight and focused closed-back stack tone to the spacious open-back sound of a classic combo.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2691/269180/main_fae10011.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2691/269181/main_a7d77035.jpg"
@@ -1745,7 +1808,8 @@
       "type": "Solid State",
       "id": "295477",
       "desc": "Electric guitar combo amplifier. Combining classic tube sound and feel with next-generation tonal diversity, the BOSS Nextone series presents an exciting new concept in professional guitar amplification. Distinctive channel voicings deliver a wide range of inspiring tones, while four selectable Class AB analog power amp types provide instant access to the unique characteristics of 6V6, 6L6, EL84, and EL34 output tube sections. Backed by our advanced Tube Logic approach, each power amp type re-voices the entire circuit from input to output, putting the complete sonic experience of these signature power stages in one amp for the very first time. Connect to the Nextone Editor and become a virtual tech, fine-tuning bias, sag, EQ, and other internal settings to perfectly match your individual style and touch. Nextone also includes convenient modern features for stage playing, such as built-in effects, a line out for mic-free direct tone, and a power control for expressive cranked-amp sound at manageable volumes. And thanks to Tube Logic, you get to enjoy all the great sound and response of your favorite tube designs without the backbreaking weight and ongoing maintenance hassles.",
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/954/95490/main_4a7a52be.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2101/210141/main_584e47e5.jpg",
@@ -1767,7 +1831,8 @@
       "type": "Solid State",
       "id": "17054",
       "desc": "Compact solid-state all-analog 10-watt guitar combo amplifier from Pathfinder series with classical Vox design that includes basket-weave, leather-look, distinctive diamond grille cloth and chicken head knobs. It is equipped with 6.5” VOX Bulldog speaker and Gain, Treble, Bass, Volume control knobs and Clean/Overdrive switch. Amplifier provides connectivity via instrument jack input and phones/line jack output. Dimensions: 380 x 260 x 170 mm. Weight: 4.8 kg.",
-      "isOnSale": true,
+      "rating": 3,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/3338/333853/main_322dea16.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1016/101672/main_c98fd257.jpg",
@@ -1789,7 +1854,8 @@
       "type": "Solid State",
       "id": "9383",
       "desc": "For the beginning electric guitarist or anyone who wants a small, easy-to-use practice amp with quality tone and a great price, the Frontman 10G is at your service. Conveniently compact and built with classic Fender style, it delivers full sound from its 6' speaker, with a gain control and overdrive switch that rock guitar tones from tube-emulated overdrive to full-strength ultra-saturated distortion—perfect for blues, metal and famous Fender clean tone.",
-      "isOnSale": false,
+      "rating": 2,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/57/5737/main_59e3bf43.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2841/284187/main_6af2f2e0.jpg"
@@ -1809,7 +1875,8 @@
       "type": "Solid State",
       "id": "285965",
       "desc": "Digital guitar combo from Fender Champion series in limited edition. Featuring a range of built-in amp models and 12 effects classic effects built in ranging from reverb and delay to vibraphone and 4 built-in stompbox effects including compressor, overdrive, distortion and octaver. The Fender Champion 50XL amp boasts a generous 50-Watt output via a well-appointed 12-inch custom Celestion 'Midnight 60' speaker, which delivers your tone with absolute clarity. There are two channels at your disposal consisting of Blackface clean and one with selectable amp voices. The Blackface clean tone produces that legendary jangly sound with cutting mid to high energy. The switchable amp voices allow you to tweak your amp's character to suit a plethora of musical styles from jazz to metal, country to punk, and everywhere in-between. Optional 2-button footswitch for channel selection and effect toggling / footswitch not included, TAP button to match the song’s tempo, 3,5 mm stereo auxiliary input for jamming with media player, 3,5 mm stereo headphone output for silent practice. Dimensions (H x W x D): 438 x 438 x 229 mm. Weight: 8,6 kg. Colour: Black.",
-      "isOnSale": false,
+      "rating": 5,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/862/86296/main_04d98af6.jpg"
       ],
@@ -1828,7 +1895,8 @@
       "type": "Solid State",
       "id": "212013",
       "desc": "Versatile 20-watt combo guitar amplifier from Champion series that delivers a selection of warm tones perfect for practising and performing for beginners and slightly advanced players. Solid-state design features one channel with Selectable Amp Voice that allows for dial-in of specific amp voices to suit the style of the player. Amplifier is equipped with one 8” Fender Special Design speaker, and a wide range of effects including reverb, chorus, flanger, delay, Vibratone and more, with dedicated Tap Tempo button. Other controls include Gain, Volume, Voice, Treble, Bass, FX Level, and FX Select. It also features one instrument 1/4' input, 1/8' aux input for external media device, and 1/8' headphone output. Amplifier delivers classic Fender Blackface styling with silver grill and sturdy handle. Dimensions: 325 x 350 x 190 mm. Weight: 5.4 kg.",
-      "isOnSale": true,
+      "rating": 3,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/242/24267/main_d8aeff86.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1146/114662/main_948c8ed2.jpg",
@@ -1849,7 +1917,8 @@
       "type": "Solid State",
       "id": "212014",
       "desc": "Versatile 2-channel 40-watt combo guitar amplifier from Champion series that delivers a selection of warm tones perfect for practising and performing for beginners and slightly advanced players. Solid-state design features two channels, Blackface Clean and a Selectable Amp Voice that allows for dial-in of specific amp voices to suit the style of the player. Amplifier is equipped with one 12” Fender Special Design speaker, and a wide range of effects including reverb, chorus, flanger, delay, Vibratone and more, with dedicated Tap Tempo button. Other controls include Gain, Volume 1 and 2, Voice, Treble, Bass, FX Level, and FX Select. It also features one instrument 1/4' input, 1/8' aux input for external media device, and 1/8” headphone output. Amplifier deliver classic Fender Blackface styling with silver grill and sturdy handle. Dimensions: 438 x 229 x 438 mm. Weight: 8.6 kg.",
-      "isOnSale": true,
+      "rating": 4,
+      "is_on_sale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/242/24268/main_a35a6f13.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2871/287178/main_af14eb6a.jpg",
@@ -1871,7 +1940,8 @@
       "type": "Solid State",
       "id": "212015",
       "desc": "Versatile 2-channel 100-watt combo guitar amplifier from Champion series that delivers a selection of warm tones perfect for practising and performing for beginners and slightly advanced players. Solid-state design features two channels with Selectable Amp Voice that allows for dial-in of specific amp voices to suit the style of the player. Amplifier is equipped with two 12” Fender Special Design speaker, and a wide range of effects including reverb, chorus, flanger, delay/echo, Vibratone and more, with dedicated Tap Tempo button. Other controls include Gain, Volume, Voice, Treble, Bass, FX Level, and FX Select. It also features one instrument 1/4' input, 1/8” aux input for external media device, and 1/8” headphone output. Amplifier delivers classic Fender Blackface styling with silver grill and sturdy handle. 2-button footswitch pedal is included. Dimensions: 260 x 660 x 490 mm. Weight: 18.2 kg.",
-      "isOnSale": false,
+      "rating": 4,
+      "is_on_sale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/242/24269/main_2ec43c64.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2871/287191/main_e629acde.jpg",
