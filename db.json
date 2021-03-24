@@ -1,18 +1,19 @@
 {
-  "guitars": [
+  "products": [
     {
       "name": "Fender Player Stratocastor HSS",
       "brand": "Fender",
-      "fantasy_color": "Polar White",
+      "fantasyColor": "Polar White",
       "color": "white",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000219429",
       "price": 879.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HSS",
@@ -21,7 +22,7 @@
         "bridge": "Player Series Stratocaster humbucker"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/789/78991/main_9a486311.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1841/184107/main_813c1de3.jpg",
@@ -31,21 +32,22 @@
         "https://muzikercdn.com/uploads/product_gallery/1841/184111/main_fcc6be22.jpg"
       ],
       "desc": "Over the decades, players have been continually inspired by the sound of a Strat. From the clarity of the high end, through the gut punch of the mids and the solid lows, it's a sound that's helped define what an electric guitar should be—versatile enough for any style and broad enough for any player to find an individual voice. This Player Series Stratocaster puts all of the classic features of the Strat at your fingertips while adding a modern edge, including a bridge position humbucker and Floyd Rose double-locking tremolo system for a little more rock-and-roll attitude. With a solid alder body, a 22-fret maple fingerboard with a contemporary 9.5' radius for easy bending and the dive-bombing madness of a Floyd Rose, this Player Series Stratocaster HSS is primed and ready to carry you along your musical voyage.",
-      "country_origin": "Mexico"
+      "countryOrigin": "Mexico"
     },
     {
       "name": "Squier Bullet Stratocaster",
       "brand": "Fender Squier",
-      "fantasy_color": "Lake Placid Blue",
+      "fantasyColor": "Lake Placid Blue",
       "color": "blue",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000304380",
       "price": 179.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "SSS",
@@ -54,32 +56,32 @@
         "bridge": "Proprietary Single Coil"
       },
       "rating": 4,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/2863/286399/main_6343f6f3.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2864/286400/main_427f0b62.jpg",
-        "https://muzikercdn.com/uploads/product_gallery/1841/184108/main_a2530f08.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2864/286402/main_7b157f78.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2864/286403/main_1c5af105.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2864/286404/main_7e648e97.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2864/286405/main_a7c5bee1.jpg"
       ],
       "desc": "A great guitar for first-time and early beginning players who want classic tones in an easy-to-play electric guitar that's incredibly affordable. From the comfortable, slim, C-profile neck to the trio of Strat single-coil pickups, the Bullet Strat delivers that iconic Fender sound. The hardtail bridge delivers excellent sustain and, along with the die-cast tuning machines, seriously stable tuning. Case sold separately.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Ibanez AZ2402",
       "brand": "Ibanez",
-      "fantasy_color": "Pearl White Flat",
+      "fantasyColor": "Pearl White Flat",
       "color": "white",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000286807",
       "price": 1999.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Roasted Maple",
-      "fret_number": 24,
+      "neckWood": "Roasted Maple",
+      "fretNumber": 24,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -88,7 +90,7 @@
         "bridge": "Humbucker"
       },
       "rating": 5,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/6256/625697/main_b504a8bc.jpg",
         "https://muzikercdn.com/uploads/product_gallery/6256/625698/main_9a9f0857.jpg",
@@ -98,21 +100,22 @@
         "https://muzikercdn.com/uploads/product_gallery/6257/625702/main_de8f91d1.jpg"
       ],
       "desc": "The AZ series carries with it all of the hallmarks of these tried and tested Ibanez qualities: the smooth oval neck profile, the well balanced asymmetrical body shape, and the neck heel allowing unrivaled playability an upper fret access. It also features a new tremolo bridge, as well as newly developed Hyperion pickups, produced in collaboration with Seymour Duncan. All of these elements help the AZ push the existing boundaries of playability and sound to the next level for modern cutting-edge players, while also providing a touch of classic styling.",
-      "country_origin": "Japan"
+      "countryOrigin": "Japan"
     },
     {
       "name": "Yamaha Pacifica 112VM",
       "brand": "Yamaha",
-      "fantasy_color": "Natural Satin",
+      "fantasyColor": "Natural Satin",
       "color": "natural",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000317655",
       "price": 319.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Left",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HSS",
@@ -121,26 +124,27 @@
         "bridge": "Proprietary Alnico Humbucker"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/196/19613/main_c65761a5.jpg"
       ],
       "desc": "The Yamaha Pacifica 112VM guitar combines renowned Yamaha build quality and playability with superb tone, and is available in four fashionable colors—including the Gray and Ice Blue finishes. The combination of a humbucking bridge pickup and two single-coil pickups provides a wide range of tonal possibilities, while the Alnico V pickups deliver warmth, clarity, and dynamic responsiveness. An alder body, a bolt-on maple neck with maple fretboard, a push-pull coil-split switch for additional tonal options, and a vintage-style tremolo bridge with heavy block saddles complement this beautiful and versatile instrument.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Gibson Custom Historic '57 Les Paul Goldtop",
       "brand": "Gibson",
-      "fantasy_color": "Gold Top",
+      "fantasyColor": "Gold Top",
       "color": "gold",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000217934",
       "price": 4699.99,
-      "in_stock": false,
-      "is_top_seller": false,
+      "inStock": false,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -149,7 +153,7 @@
         "bridge": "CustomBucker"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2860/286000/main_8ad59f97.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2860/286002/main_1b7f9211.jpg",
@@ -158,21 +162,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2860/286008/main_e929918e.jpg"
       ],
       "desc": "This 2018 Historic Series recreations exemplifies Gibson Custom Shop's tireless quest for exacting accuracy to the original year of production, from the woods to the construction to the parts and precise contours throughout. Two new updates for 2018 include the inclusion of all True-Historic-spec parts and, for the first time, narrow/tall frets which bring the tone and playability closer to the character of the originals. Includes hardshell case.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Fender American Performer Telecaster RW",
       "brand": "Fender",
-      "fantasy_color": "Aubergine",
+      "fantasyColor": "Aubergine",
       "color": "red",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000253712",
       "price": 1249.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HS",
@@ -181,7 +186,7 @@
         "bridge": "Yosemite single-coil"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/958/95853/main_d33cb12f.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2106/210628/main_781e2fc9.jpg",
@@ -191,21 +196,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2106/210632/main_032f2a75.jpg"
       ],
       "desc": "With the American Performer Series, Fender brings players a line of affordable U.S.-made instruments loaded with stunning finishes, refined electronics and hardware and a few hidden surprises. These guitars and basses are designed for musicians of any level who seek Made in USA quality and playability at a surprisingly accessible price. The American Performer Telecaster HS with rosewood fingerboard takes the quintessential 'workhorse' guitar to a whole new level.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Epiphone Tommy Thayer Les Paul",
       "brand": "Epiphone",
-      "fantasy_color": "Electric Blue",
+      "fantasyColor": "Electric Blue",
       "color": "blue",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000313238",
       "price": 849.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -214,7 +220,7 @@
         "bridge": "Seymour Duncan JB (open coil with blue bobbins)"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3904/390415/main_95dbc63d.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3904/390418/main_7bf1534a.jpg",
@@ -223,75 +229,78 @@
         "https://muzikercdn.com/uploads/product_gallery/3904/390424/main_e9aba5da.jpg"
       ],
       "desc": "The Tommy Thayer Electric Blue Les Paul Outfit is loaded with Seymour Duncan JB humbuckers—Seymour’s most revered design and one of the most recorded pickups on the planet. It’s the ultimate hot-rodded humbucker. The JB neck pickup is covered, but the JB bridge features an open-coil design with blue bobbins. Volume and Tone Controls come with custom Blue Top Hat knobs with metal pointers.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Takamine GD71 Sunburst",
       "brand": "Takamine",
-      "fantasy_color": "Sunburst",
+      "fantasyColor": "Sunburst",
       "color": "sunburst",
       "type": "Acoustic Guitar",
+      "category": "guitar",
       "id": "1372692951738",
       "price": 549.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/240/24017/main_d2578f08.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1142/114244/main_2527a180.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1142/114245/main_32ed28a3.jpg"
       ],
       "desc": "The Tommy Thayer Electric Blue Les Paul Outfit is loaded with Seymour Duncan JB humbuckers—Seymour’s most revered design and one of the most recorded pickups on the planet. It’s the ultimate hot-rodded humbucker. The JB neck pickup is covered, but the JB bridge features an open-coil design with blue bobbins. Volume and Tone Controls come with custom Blue Top Hat knobs with metal pointers.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Epiphone Masterbilt Hummingbird",
       "brand": "Epiphone",
-      "fantasy_color": "Natural Antique",
+      "fantasyColor": "Natural Antique",
       "color": "natural",
       "type": "Acoustic Guitar",
+      "category": "guitar",
       "id": "1500000313834",
       "price": 899.99,
-      "in_stock": false,
-      "is_top_seller": false,
+      "inStock": false,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 20,
+      "neckWood": "Maple",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5794/579464/main_24d52b29.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5794/579465/main_c353ac1f.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5794/579466/main_25333e2b.jpg"
       ],
       "desc": "Perhaps the rarest Epiphone model ever made, only 141 Excellente acoustic guitars were produced between 1963 and 1970. The Epiphone Excellente was made famous by country music legend Loretta Lynn and now joins the new Epiphone Masterbilt Collection. It features a solid Sitka spruce top, an ebony fingerboard with historical Pearl Cloud inlay, bone nut and saddle, and gold Kluson Waffleback tuners. The Epiphone Masterbilt Excellente is powered by the Fishman Sonitone Onboard Preamp System.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Cort AD810 OP Dreadnought",
       "brand": "Cort",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Acoustic Guitar",
+      "category": "guitar",
       "id": "1500000270316",
       "price": 129.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/311/31128/main_cf282148.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3329/332924/main_28433908.jpg",
@@ -301,21 +310,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3329/332928/main_3d8ab8c6.jpg"
       ],
       "desc": "Cort’s oldest acoustic series, the Standard Series, which now includes the AD810 OP dreadnought acoustic guitar, defines superb performance and value for the money. The Standard Series guitars are affordable, but offer good solid performance for beginners and hobbyists alike in a variety of models with different types of features for any playing situation.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Gibson SG Tribute",
       "brand": "Epiphone",
-      "fantasy_color": "Vintage Cherry Satin",
+      "fantasyColor": "Vintage Cherry Satin",
       "color": "red",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000274110",
       "price": 1069.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -324,7 +334,7 @@
         "bridge": "490T"
       },
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2669/266932/main_a863c04b.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2669/266933/main_3e40d2db.jpg",
@@ -333,21 +343,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2669/266936/main_7879f957.jpg"
       ],
       "desc": "Gibson's SG Standard Tribute bears the signature traits of the iconic double-cutaway solid-body, but with a few key updates. The traditional mahogany body is wed to a lively maple neck with 22-fret rosewood fingerboard, to deliver a ton that's a combination of bright and sweet, with plenty of sustain. Gibson's Alnico II 490 humbuckers are slightly overwound to deliver a modern edge that mellows back to a traditional PAF-style tone with a lighter touch or a slight rollback of the volume knob. Add it all together and get an SG that combines old and new for an amazing playing experience.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Jackson JS Series Dinky Arch Top",
       "brand": "Jackson",
-      "fantasy_color": "Snow White",
+      "fantasyColor": "Snow White",
       "color": "white",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000240735",
       "price": 399.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 24,
+      "neckWood": "Maple",
+      "fretNumber": 24,
       "strings": 7,
       "pickups": {
         "config": "HH",
@@ -356,7 +367,7 @@
         "bridge": "High output humbucker"
       },
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2591/259145/main_50fab521.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2591/259146/main_37824618.jpg",
@@ -366,21 +377,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2591/259152/main_1f3eed9c.jpg"
       ],
       "desc": "This stylish 7-string features a 26.5” scale length for better low-end articulation, a lightweight and resonant poplar body with an arched top and a bolt-on maple neck with graphite reinforcement and scarf joint for rock-solid stability. Hosting 24 jumbo frets and piranha tooth inlays, the bound 12”-16” compound radius rosewood fingerboard creates the ideal playing surface for fat riffs and easy chording near the black plastic nut while gradually flattening in the upper registers for lightning-quick solos and wide bends without fear of fretting out.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Fender Squier Classic Vibe 60s Telecaster",
       "brand": "Fender Squier",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000240735",
       "price": 479.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "SS",
@@ -389,7 +401,7 @@
         "bridge": "Proprietary Alnico Single Coil"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2954/295488/main_a8b7b34d.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2954/295489/main_018cba59.jpg",
@@ -399,21 +411,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2954/295493/main_ad3c89ec.jpg"
       ],
       "desc": "The Squier Classic Vibe ‘60s Telecaster Thinline electric guitar is a nod to the early semi-hollow Tele models from the 1960s, offering a distinctive classic sound at an affordable price.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Epiphone Les Paul Studio",
       "brand": "Epiphone",
-      "fantasy_color": "Ebony",
+      "fantasyColor": "Ebony",
       "color": "black",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000314113",
       "price": 449.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -422,7 +435,7 @@
         "bridge": "Proprietary Humbucker"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3871/387124/main_f0bc89ec.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3871/387125/main_0edb24e7.jpg",
@@ -431,21 +444,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3871/387128/main_f6af0efb.jpg"
       ],
       "desc": "The Epiphone Les Paul Studio IG proves that a lightweight electric can punch above its class. Gibson’s original model made its debut in 1983. Essentially a Les Paul with less flash, it was designed for studio musicians who were primarily concerned with sound and playability. The Studio IG, however, leaves nothing to be desired. It’s got the tones and the looks to wow in any arena.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Epiphone Les Paul Standard '50s",
       "brand": "Epiphone",
-      "fantasy_color": "Metallic Gold",
+      "fantasyColor": "Metallic Gold",
       "color": "gold",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000313843",
       "price": 599.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -454,7 +468,7 @@
         "bridge": "Proprietary Humbucker"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3871/387124/main_f0bc89ec.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3871/387125/main_0edb24e7.jpg",
@@ -463,21 +477,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3871/387128/main_f6af0efb.jpg"
       ],
       "desc": "The Epiphone Les Paul Standard ’50s model electric guitar takes its stylistic and sonic cues from the iconic instrument first released in 1958. As part of Epiphone’s “Inspired by Gibson” collection, it features a mahogany body topped with AAA flame maple, dual ProBuckers, a long tenon set neck and more. It’s ideal for players looking for old-school design and classic sounds in a guitar with equal vibe and value.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Fender Squier Classic Vibe 50s Telecaster ",
       "brand": "Fender",
-      "fantasy_color": "Butterscotch Blonde",
+      "fantasyColor": "Butterscotch Blonde",
       "color": "brown",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500008313843",
       "price": 559.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Left",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HS",
@@ -486,7 +501,7 @@
         "bridge": "Yosemite single-coil"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2863/286364/main_d2d81959.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2863/286365/main_7a21eceb.jpg",
@@ -495,21 +510,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2863/286368/main_d9509cd6.jpg"
       ],
       "desc": "A great guitar for first-time and early beginning players who want classic tones in an easy-to-play electric guitar that's incredibly affordable. From the comfortable, slim, C-profile neck to the trio of Strat single-coil pickups, the Bullet Strat delivers that iconic Fender sound. The hardtail bridge delivers excellent sustain and, along with the die-cast tuning machines, seriously stable tuning. Case sold separately.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Fender Vintera 60s Stratocaster",
       "brand": "Fender",
-      "fantasy_color": "Surf Green",
+      "fantasyColor": "Surf Green",
       "color": "green",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000313613",
       "price": 1559.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "SSS",
@@ -518,7 +534,7 @@
         "bridge": "60s Strat"
       },
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2843/284381/main_2d32b8b8.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2843/284384/main_2c795226.jpg",
@@ -528,21 +544,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2843/284394/main_aa03e48c.jpg"
       ],
       "desc": "For players who want the style and sound of Fender’s golden era, they created the Vintera ‘60s Stratocaster. Equipped with the coveted features that defined the decade—including period-accurate neck profile and playing feel, along with re-voiced pickups—this guitar has all of the chime and articulation that made the Stratocaster a legend.",
-      "country_origin": "Mexico"
+      "countryOrigin": "Mexico"
     },
     {
       "name": "Yamaha Pacifica 612VIIX Solid Body",
       "brand": "Yamaha",
-      "fantasy_color": "Teal Green Metallic",
+      "fantasyColor": "Teal Green Metallic",
       "color": "green",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000339855",
       "price": 649.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HSS",
@@ -551,7 +568,7 @@
         "bridge": "Seymour Duncan Single Coil"
       },
       "rating": 3,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5965/596537/main_04b617d7.jpg",
         "https://muzikercdn.com/uploads/product_gallery/6562/656281/main_2fb3d5eb.jpg",
@@ -559,21 +576,22 @@
         "https://muzikercdn.com/uploads/product_gallery/5965/596550/main_1b7ec96d.jpgg"
       ],
       "desc": "The Yamaha Pacifica 612VIIX guitar recalls the Pacifica series’ LA custom shop roots with a combination of quality, playability and premium components. Equipped with Seymour Duncan Custom 5 TB-14 and SSL-1 single-coil pickups, the Pacific 612VIIX delivers warm and powerful sounds that you are in full control of via a 5-position pickup selector and a push-pull coil-split switch. Additional features include Grover locking tuners, a Wilkinson VS50 bridge along with a Graph Tech TUSQ nut and string trees to ensure optimal performance and exceptional tuning stability.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Fender American Original ‘60s Stratocaster",
       "brand": "Fender",
-      "fantasy_color": "Sunburst",
+      "fantasyColor": "Sunburst",
       "color": "sunburst",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000152679",
       "price": 1979.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "SSS",
@@ -582,7 +600,7 @@
         "bridge": "Pure Vintage 65 single-coil Strat"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/651/65161/main_0b841d34.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1690/169054/main_831a0381.jpg",
@@ -591,21 +609,22 @@
         "https://muzikercdn.com/uploads/product_gallery/1690/169057/main_539d2b37.jpg"
       ],
       "desc": "As the world changed in the '60s, the Strat changed, too. It mellowed out with a smooth rosewood fretboard and the look of a mint green pickguard, but still maintained its clarity of voice. The American Original '60s Stratocaster captures that original vibe and adds a modern 9.5' radius to accommodate the desires of modern players. Loaded with period-correct and vintage-style pickups and hardware, it's like a time machine with extra-plush seating.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Gibson Les Paul Tribute",
       "brand": "Gibson",
-      "fantasy_color": "Satin Cherry Sunburst",
+      "fantasyColor": "Satin Cherry Sunburst",
       "color": "sunburst",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500100274086",
       "price": 1199.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -614,7 +633,7 @@
         "bridge": "490T"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2669/266917/main_ced8bcb9.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2669/266918/main_d923eca1.jpg",
@@ -623,21 +642,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2669/266921/main_fe331aa6.jpg"
       ],
       "desc": "Gibson's Les Paul Tribute brings you all the vibe and feel of a traditional Les Paul, in a ultra-modern-weight-relieved mahogany body. An easy-to-play rounded profile on a set-in maple neck with rosewood fingerboard adds a hint of brightness, and the Alnico II 490 humbuckers deliver loads of power and sustain for those classic Les Paul tones.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Epiphone Les Paul Studio",
       "brand": "Epiphone",
-      "fantasy_color": "Alpine White",
+      "fantasyColor": "Alpine White",
       "color": "white",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "345464",
       "price": 599.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -646,7 +666,7 @@
         "bridge": "Epiphone Alnico Classic"
       },
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3871/387114/main_a78b9c0e.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3871/387115/main_96c7340a.jpg",
@@ -655,21 +675,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3871/387118/main_29343b8f.jpg"
       ],
       "desc": "The Epiphone Les Paul Standard ’50s model electric guitar takes its stylistic and sonic cues from the iconic instrument first released in 1958. As part of Epiphone’s “Inspired by Gibson” collection, it features a mahogany body topped with AAA flame maple, dual ProBuckers, a long tenon set neck and more. It’s ideal for players looking for old-school design and classic sounds in a guitar with equal vibe and value.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Gibson Custom 1957 Les Paul Custom Reissue",
       "brand": "Gibson",
-      "fantasy_color": "Ebony",
+      "fantasyColor": "Ebony",
       "color": "black",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000258679",
       "price": 6699.0,
-      "in_stock": false,
-      "is_top_seller": false,
+      "inStock": false,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -678,7 +699,7 @@
         "bridge": "Burstbucker"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2862/286233/main_68fbc388.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2862/286235/main_5c41e0a6.jpg",
@@ -687,25 +708,26 @@
         "https://muzikercdn.com/uploads/product_gallery/2862/286242/main_a5e20338.jpg"
       ],
       "desc": "The '57 Les Paul Custom VOS electric guitar is perhaps the most beautiful guitar ever made, revered both for its undeniable upscale aesthetic and its versatile sound. The dark, dense ebony fingerboard produces clarity and sustain while the single-piece solid mahogany body adds a warmth and mid-range unlike any other Les Paul.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Fender PM-1 OV",
       "brand": "Fender",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Acoustic Guitar",
+      "category": "guitar",
       "id": "1500000254448",
       "price": 249.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/932/93218/main_43d92dd1.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2059/205928/main_40700013.jpg",
@@ -715,25 +737,26 @@
         "https://muzikercdn.com/uploads/product_gallery/2059/205932/main_1bf828e8.jpg"
       ],
       "desc": "This re-designed Classic Design Series CD-60S dreadnought acoustic guitar comes with the warm, mellow tone of an all-mahogany body. Don’t let the price tag fool you; this guitar boasts upgraded features at an attractive price, including a solid mahogany top, rolled fingerboard edges and a new easy-to-play neck shape.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Fender CD-60S",
       "brand": "Fender",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Acoustic Guitar",
+      "category": "guitar",
       "id": "1500000254447",
       "price": 219.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2742/274236/main_e00dcaa8.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2742/274238/main_055a5dfc.jpg",
@@ -744,25 +767,26 @@
         "https://muzikercdn.com/uploads/product_gallery/2936/293619/main_28f711d6.jpg"
       ],
       "desc": "This re-designed Classic Design Series CD-60S dreadnought acoustic guitar comes with the warm, mellow tone of an all-mahogany body. Don’t let the price tag fool you; this guitar boasts upgraded features at an attractive price, including a solid mahogany top, rolled fingerboard edges and a new easy-to-play neck shape.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Takamine GD93 Natural",
       "brand": "Takamine",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Acoustic Guitar",
+      "category": "guitar",
       "id": "1372111951738",
       "price": 549.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/240/24016/main_4715f930.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1142/114241/main_04591e38.jpg",
@@ -770,73 +794,76 @@
         "https://muzikercdn.com/uploads/product_gallery/1142/114243/main_fd39097a.jpg"
       ],
       "desc": "The Tommy Thayer Electric Blue Les Paul Outfit is loaded with Seymour Duncan JB humbuckers—Seymour’s most revered design and one of the most recorded pickups on the planet. It’s the ultimate hot-rodded humbucker. The JB neck pickup is covered, but the JB bridge features an open-coil design with blue bobbins. Volume and Tone Controls come with custom Blue Top Hat knobs with metal pointers.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Yamaha C30M",
       "brand": "Yamaha",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Classical Guitar",
+      "category": "guitar",
       "id": "12473",
       "price": 149.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3004/300411/main_e098a355.jpg",
         "https://muzikercdn.com/uploads/product_gallery/999/99900/main_34e0c79e.jpg"
       ],
       "desc": "Yamaha's most reasonably priced classical guitar offers a rich tone that beginners will find inspiring. The CG102 Classical guitar draws upon the vast knowledge and techniques of Yamaha's master craftsmen, and was developed to deliver top level sound quality, performance and playability. This is a full-size classical guitar with a spruce top and nato back and sides. It features a rosewood fingerboard and a 52 mm nut width for traditional classical play. This would make an excellent choice for the young guitarist seeking to improve his or her nylon-string skills or even for the seasoned player looking for an inexpensive guitar to always have within reach. Case sold separately.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Takamine GC2",
       "brand": "Takamine",
-      "fantasy_color": "Black",
+      "fantasyColor": "Black",
       "color": "black",
       "type": "Classical Guitar",
+      "category": "guitar",
       "id": "12475945063",
       "price": 199.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/4863/486361/main_b818cc9b.jpg",
         "https://muzikercdn.com/uploads/product_gallery/4863/486362/main_6297a54f.jpg"
       ],
       "desc": "Takamine's GC5CE was built to take your music front and center. The creative minds at Takamine have given it deluxe appointments, a solid-top construction and great performance features, including a Venetian-style cutaway and special Takamine electronics. ",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Fender ESC-110",
       "brand": "Fender",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Classical Guitar",
+      "category": "guitar",
       "id": "1500000263470",
       "price": 219.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 18,
+      "neckWood": "Mahogany",
+      "fretNumber": 18,
       "strings": 6,
 
       "rating": 3,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3442/344250/main_2bb71f85.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3442/344251/main_5f4046eb.jpg",
@@ -846,25 +873,26 @@
         "https://muzikercdn.com/uploads/product_gallery/3442/344255/main_a2627435.jpg"
       ],
       "desc": "The Classic Design CN models combine the easy playability and distinct tone of nylon strings with the comfort of steel-string spacing. Fender has replaced the typically wide necks normally found on classical guitars with the same easy-to-play neck profile found on all other Classic Design models, with rolled fingerboard edges for incredible fret-hand feel ideal for beginners. The CN-60S also features a solid spruce top, the standard tonewood for acoustic guitar tops, as few woods can beat its strength, brightness and dynamic range, and it responds well to any acoustic playing style, from hard strumming to fast flatpicking or delicate fingerpicking. It also comes with mahogany back and sides, 3-in-line with amber pearloid buttons, dual-action truss rod and a CD Series pearloid rosette.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Yamaha C70",
       "brand": "Yamaha",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Classical Guitar",
+      "category": "guitar",
       "id": "12473450",
       "price": 189.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2874/287484/main_8d97ff37.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2874/287491/main_39c69631.jpg",
@@ -873,44 +901,46 @@
         "https://muzikercdn.com/uploads/product_gallery/2874/287494/main_85ab3e1a.jpg"
       ],
       "desc": "Yamaha's most reasonably priced classical guitar offers a rich tone that beginners will find inspiring. The CG102 Classical guitar draws upon the vast knowledge and techniques of Yamaha's master craftsmen, and was developed to deliver top level sound quality, performance and playability. This is a full-size classical guitar with a spruce top and nato back and sides. It features a rosewood fingerboard and a 52 mm nut width for traditional classical play. This would make an excellent choice for the young guitarist seeking to improve his or her nylon-string skills or even for the seasoned player looking for an inexpensive guitar to always have within reach. Case sold separately.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Yamaha CG122-MC",
       "brand": "Yamaha",
-      "fantasy_color": "Natural",
+      "fantasyColor": "Natural",
       "color": "natural",
       "type": "Classical Guitar",
+      "category": "guitar",
       "id": "124745045873",
       "price": 289.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 20,
+      "neckWood": "Mahogany",
+      "fretNumber": 20,
       "strings": 6,
 
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/95/9512/main_eb3cb732.jpg"
       ],
       "desc": "Yamaha's most reasonably priced classical guitar offers a rich tone that beginners will find inspiring. The CG102 Classical guitar draws upon the vast knowledge and techniques of Yamaha's master craftsmen, and was developed to deliver top level sound quality, performance and playability. This is a full-size classical guitar with a spruce top and nato back and sides. It features a rosewood fingerboard and a 52 mm nut width for traditional classical play. This would make an excellent choice for the young guitarist seeking to improve his or her nylon-string skills or even for the seasoned player looking for an inexpensive guitar to always have within reach. Case sold separately.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Fender Squier Classic Vibe '70s Stratocaster HSS",
       "brand": "Fender Squier",
-      "fantasy_color": "Walnut",
+      "fantasyColor": "Walnut",
       "color": "brown",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000264101",
       "price": 429.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "HSS",
@@ -919,7 +949,7 @@
         "bridge": "Fender Designed Wide Range Humbucking"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2580/258087/main_3f0589f1.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2580/258088/main_b3f773c5.jpg",
@@ -930,21 +960,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2580/258093/main_cd90ec93.jpgg"
       ],
       "desc": "The Classic Vibe ‘70s Stratocaster HSS nails the look of the large-headstock Strat models produced during the 1970s, creating incredible tone, courtesy of the Fender-Designed alnico pickups. Player-friendly features include a slim and comfortable 'C'-shaped neck profile with an easy-playing 9.5'-radius fingerboard and narrow-tall frets, as well as a vintage-style tremolo system for expressive string bending effects. This throwback Squier model also features 1970s inspired headstock markings, nickel-plated hardware and a slick vintage-tinted gloss neck finish for an old-school aesthetic vibe that is sure to inspire. Case sold separately.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Squier Affinity Stratocaster HSS",
       "brand": "Fender Squier",
-      "fantasy_color": "Montego Black Metallic",
+      "fantasyColor": "Montego Black Metallic",
       "color": "black",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000235878",
       "price": 229.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "HSS",
@@ -953,27 +984,28 @@
         "bridge": "Standard humbucking"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2203/220347/main_6c113c84.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2222/222295/main_f3f7bf69.jpg"
       ],
       "desc": "Squier Affinity Series guitars are among the best values in electric guitar design. The Affinity Series Stratocaster HSS delivers solid sound and style, single-ply 'platinum sparkle' pickguard and eye-catching finishes. Other features include single-coil neck and middle pickups, humbucking bridge pickup, five-way switching, smooth-playing Indian laurel fingerboard with 21 medium jumbo frets, synchronous tremolo bridge and large '60s-style headstock.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Fender Deluxe Roadhouse Stratocaster",
       "brand": "Fender",
-      "fantasy_color": "Mystic Ice Blue",
+      "fantasyColor": "Mystic Ice Blue",
       "color": "blue",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000054828",
       "price": 949.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "SSS",
@@ -982,7 +1014,7 @@
         "bridge": "Vintage Noiseless"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/789/78991/main_9a486311.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1841/184107/main_813c1de3.jpg",
@@ -992,21 +1024,22 @@
         "https://muzikercdn.com/uploads/product_gallery/1841/184111/main_fcc6be22.jpg"
       ],
       "desc": "With sound and style tough enough to rock a chicken-wire-enclosed stage, the Deluxe Roadhouse Strat is the perfect instrument for tearing it up all night long. Packed with a wide-ranging variety of tones, ranging from tough, wiry single-coil spank to a high-output sound that’s perfect for searing leads, this guitar is versatile enough to handle anything you throw at it with style. It’s the perfect instrument for a performer who demands sonic flexibility and the ability to easily switch sounds at the drop of a hat.",
-      "country_origin": "Mexico"
+      "countryOrigin": "Mexico"
     },
     {
       "name": "Fender American Ultra Stratocaster",
       "brand": "Fender",
-      "fantasy_color": "Cobra Blue",
+      "fantasyColor": "Cobra Blue",
       "color": "blue",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "313414",
       "price": 1349.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "SSS",
@@ -1015,7 +1048,7 @@
         "bridge": "Vintage Noiseless"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3333/333366/main_affacb5d.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3333/333368/main_bd32c3f6.jpg",
@@ -1025,21 +1058,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3333/333376/main_1418fcd4.jpg"
       ],
       "desc": "With sound and style tough enough to rock a chicken-wire-enclosed stage, the Deluxe Roadhouse Strat is the perfect instrument for tearing it up all night long. Packed with a wide-ranging variety of tones, ranging from tough, wiry single-coil spank to a high-output sound that’s perfect for searing leads, this guitar is versatile enough to handle anything you throw at it with style. It’s the perfect instrument for a performer who demands sonic flexibility and the ability to easily switch sounds at the drop of a hat.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Yamaha Pacifica 120H",
       "brand": "Yamaha",
-      "fantasy_color": "Vintage White",
+      "fantasyColor": "Vintage White",
       "color": "white",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "204419",
       "price": 339.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HSS",
@@ -1048,26 +1082,27 @@
         "bridge": "Proprietary Alnico Humbucker"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/196/19625/main_5782be8c.jpg"
       ],
       "desc": "The Yamaha Pacifica 112VM guitar combines renowned Yamaha build quality and playability with superb tone, and is available in four fashionable colors—including the Gray and Ice Blue finishes. The combination of a humbucking bridge pickup and two single-coil pickups provides a wide range of tonal possibilities, while the Alnico V pickups deliver warmth, clarity, and dynamic responsiveness. An alder body, a bolt-on maple neck with maple fretboard, a push-pull coil-split switch for additional tonal options, and a vintage-style tremolo bridge with heavy block saddles complement this beautiful and versatile instrument.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Yamaha Pacifica 612V",
       "brand": "Yamaha",
-      "fantasy_color": "Indigo Blue",
+      "fantasyColor": "Indigo Blue",
       "color": "blue",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "286192",
       "price": 1339.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 22,
+      "neckWood": "Maple",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HSS",
@@ -1076,26 +1111,27 @@
         "bridge": "Proprietary Alnico Humbucker"
       },
       "rating": 5,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/865/86510/main_072954d6.jpg"
       ],
       "desc": "The Yamaha Pacifica 112VM guitar combines renowned Yamaha build quality and playability with superb tone, and is available in four fashionable colors—including the Gray and Ice Blue finishes. The combination of a humbucking bridge pickup and two single-coil pickups provides a wide range of tonal possibilities, while the Alnico V pickups deliver warmth, clarity, and dynamic responsiveness. An alder body, a bolt-on maple neck with maple fretboard, a push-pull coil-split switch for additional tonal options, and a vintage-style tremolo bridge with heavy block saddles complement this beautiful and versatile instrument.",
-      "country_origin": "China"
+      "countryOrigin": "China"
     },
     {
       "name": "Epiphone Les Paul Studio",
       "brand": "Epiphone",
-      "fantasy_color": "Alpine White",
+      "fantasyColor": "Alpine White",
       "color": "white",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "345415764",
       "price": 549.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -1104,7 +1140,7 @@
         "bridge": "Epiphone Alnico Classic"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3871/387114/main_a78b9c0e.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3871/387115/main_96c7340a.jpg",
@@ -1113,21 +1149,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3871/387118/main_29343b8f.jpg"
       ],
       "desc": "The Tommy Thayer Electric Blue Les Paul Outfit is loaded with Seymour Duncan JB humbuckers—Seymour’s most revered design and one of the most recorded pickups on the planet. It’s the ultimate hot-rodded humbucker. The JB neck pickup is covered, but the JB bridge features an open-coil design with blue bobbins. Volume and Tone Controls come with custom Blue Top Hat knobs with metal pointers.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Epiphone Les Paul Modern",
       "brand": "Epiphone",
-      "fantasy_color": "Graphite Black",
+      "fantasyColor": "Graphite Black",
       "color": "black",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "345447864",
       "price": 949.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -1136,7 +1173,7 @@
         "bridge": "Epiphone Alnico Classic"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/4097/409751/main_3ad040a3.jpg",
         "https://muzikercdn.com/uploads/product_gallery/4097/409752/main_3b6120c6.jpg",
@@ -1144,21 +1181,22 @@
         "https://muzikercdn.com/uploads/product_gallery/4097/409754/main_95df9700.jpg"
       ],
       "desc": "The Tommy Thayer Electric Blue Les Paul Outfit is loaded with Seymour Duncan JB humbuckers—Seymour’s most revered design and one of the most recorded pickups on the planet. It’s the ultimate hot-rodded humbucker. The JB neck pickup is covered, but the JB bridge features an open-coil design with blue bobbins. Volume and Tone Controls come with custom Blue Top Hat knobs with metal pointers.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Epiphone Les Paul Modern",
       "brand": "Epiphone",
-      "fantasy_color": "Caribbean Blue Fade",
+      "fantasyColor": "Caribbean Blue Fade",
       "color": "blue",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "345434548564",
       "price": 989.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -1167,7 +1205,7 @@
         "bridge": "Epiphone Alnico Classic"
       },
       "rating": 4,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/3861/386169/main_2ab6b8fc.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3861/386170/main_6f617c7d.jpg",
@@ -1176,21 +1214,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3861/386173/main_87d6b2a5.jpg"
       ],
       "desc": "The Tommy Thayer Electric Blue Les Paul Outfit is loaded with Seymour Duncan JB humbuckers—Seymour’s most revered design and one of the most recorded pickups on the planet. It’s the ultimate hot-rodded humbucker. The JB neck pickup is covered, but the JB bridge features an open-coil design with blue bobbins. Volume and Tone Controls come with custom Blue Top Hat knobs with metal pointers.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Chapman ML3 Pro",
       "brand": "Chapman",
-      "fantasy_color": "Hot White",
+      "fantasyColor": "Hot White",
       "color": "white",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000177929",
       "price": 899.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "SS",
@@ -1199,7 +1238,7 @@
         "bridge": "Alnico single-coil"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5455/545591/main_ce9cde5e.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5455/545592/main_e6039878.jpg",
@@ -1207,21 +1246,22 @@
         "https://muzikercdn.com/uploads/product_gallery/5455/545594/main_99bf2245.jpg"
       ],
       "desc": "Channeling the very soul of electric guitar, the Chapman ML3 Pro Traditional is a near-perfect marriage of form and function, putting nothing but the essentials of great tone a playability right in your hands. From the resonant carved swamp ash body to the comfortable neck and dynamically responsive alnico single-coil pickups, the ML3 Pro Traditional reveals the musical voice that's uniquely yours.",
-      "country_origin": "South Korea"
+      "countryOrigin": "South Korea"
     },
     {
       "name": "Chapman ML3 Pro",
       "brand": "Chapman",
-      "fantasy_color": "Cyber Black",
+      "fantasyColor": "Cyber Black",
       "color": "black",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "369054",
       "price": 899.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "SS",
@@ -1230,7 +1270,7 @@
         "bridge": "Alnico single-coil"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5456/545610/main_e205ca4a.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5456/545611/main_d361b599.jpg",
@@ -1238,21 +1278,22 @@
         "https://muzikercdn.com/uploads/product_gallery/5455/545590/main_e07b6d68.jpg"
       ],
       "desc": "Channeling the very soul of electric guitar, the Chapman ML3 Pro Traditional is a near-perfect marriage of form and function, putting nothing but the essentials of great tone a playability right in your hands. From the resonant carved swamp ash body to the comfortable neck and dynamically responsive alnico single-coil pickups, the ML3 Pro Traditional reveals the musical voice that's uniquely yours.",
-      "country_origin": "South Korea"
+      "countryOrigin": "South Korea"
     },
     {
       "name": "Fender Vintera 70s Telecaster",
       "brand": "Fender",
-      "fantasy_color": "Black",
+      "fantasyColor": "Black",
       "color": "black",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "313341",
       "price": 1259.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "HS",
@@ -1261,7 +1302,7 @@
         "bridge": "Yosemite single-coil"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2840/284065/main_18977e01.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2840/284066/main_69e94180.jpg",
@@ -1271,21 +1312,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2840/284070/main_eceba183.jpg"
       ],
       "desc": "With the American Performer Series, Fender brings players a line of affordable U.S.-made instruments loaded with stunning finishes, refined electronics and hardware and a few hidden surprises. These guitars and basses are designed for musicians of any level who seek Made in USA quality and playability at a surprisingly accessible price. The American Performer Telecaster HS with rosewood fingerboard takes the quintessential 'workhorse' guitar to a whole new level.",
-      "country_origin": "Mexico"
+      "countryOrigin": "Mexico"
     },
     {
       "name": "Fender American Original 70s Telecaster",
       "brand": "Fender",
-      "fantasy_color": "Sunburst",
+      "fantasyColor": "Sunburst",
       "color": "sunburst",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "340691",
       "price": 2259.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "HS",
@@ -1294,7 +1336,7 @@
         "bridge": "Yosemite single-coil"
       },
       "rating": 5,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/3717/371754/main_1b2f2ffc.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3717/371755/main_5a01c336.jpg",
@@ -1304,21 +1346,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3717/371760/main_cca0ceea.jpg"
       ],
       "desc": "With the American Performer Series, Fender brings players a line of affordable U.S.-made instruments loaded with stunning finishes, refined electronics and hardware and a few hidden surprises. These guitars and basses are designed for musicians of any level who seek Made in USA quality and playability at a surprisingly accessible price. The American Performer Telecaster HS with rosewood fingerboard takes the quintessential 'workhorse' guitar to a whole new level.",
-      "country_origin": "USA"
+      "countryOrigin": "USA"
     },
     {
       "name": "Fender Player Series Telecaster",
       "brand": "Fender",
-      "fantasy_color": "Tidepool",
+      "fantasyColor": "Tidepool",
       "color": "blue",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "278414738",
       "price": 1359.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "HS",
@@ -1327,7 +1370,7 @@
         "bridge": "Yosemite single-coil"
       },
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/790/79008/main_c64ded72.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1841/184188/main_36e649a1.jpg",
@@ -1337,21 +1380,22 @@
         "https://muzikercdn.com/uploads/product_gallery/1841/184192/main_ab187688.jpg"
       ],
       "desc": "With the American Performer Series, Fender brings players a line of affordable U.S.-made instruments loaded with stunning finishes, refined electronics and hardware and a few hidden surprises. These guitars and basses are designed for musicians of any level who seek Made in USA quality and playability at a surprisingly accessible price. The American Performer Telecaster HS with rosewood fingerboard takes the quintessential 'workhorse' guitar to a whole new level.",
-      "country_origin": "Mexico"
+      "countryOrigin": "Mexico"
     },
     {
       "name": "Fender Squier Bullet Telecaster ",
       "brand": "Fender Squier",
-      "fantasy_color": "Brown Sunburst",
+      "fantasyColor": "Brown Sunburst",
       "color": "sunburst",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "313484",
       "price": 359.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Maple",
-      "fret_number": 21,
+      "neckWood": "Maple",
+      "fretNumber": 21,
       "strings": 6,
       "pickups": {
         "config": "HS",
@@ -1360,7 +1404,7 @@
         "bridge": "Yosemite single-coil"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2864/286427/main_66ac51e9.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2864/286428/main_af00eee3.jpg",
@@ -1370,21 +1414,22 @@
         "https://muzikercdn.com/uploads/product_gallery/2864/286432/main_b96dc1b0.jpg"
       ],
       "desc": "With the American Performer Series, Fender brings players a line of affordable U.S.-made instruments loaded with stunning finishes, refined electronics and hardware and a few hidden surprises. These guitars and basses are designed for musicians of any level who seek Made in USA quality and playability at a surprisingly accessible price. The American Performer Telecaster HS with rosewood fingerboard takes the quintessential 'workhorse' guitar to a whole new level.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Epiphone SG Standard '61 Maestro Vibrola",
       "brand": "Epiphone",
-      "fantasy_color": "Vintage Cherry",
+      "fantasyColor": "Vintage Cherry",
       "color": "red",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "1500000314093",
       "price": 549.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -1393,7 +1438,7 @@
         "bridge": "Burstbucker 61T"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3903/390359/main_05c35caa.jpg",
         "https://muzikercdn.com/uploads/product_gallery/3903/390362/main_7249ce0f.jpg",
@@ -1402,21 +1447,22 @@
         "https://muzikercdn.com/uploads/product_gallery/3903/390369/main_508499e3.jpg"
       ],
       "desc": "Featured in the new Inspired by Gibson Collection, the Epiphone SG Standard '61 Maestro Vibrola recreates the legendary Gibson model from 1961. Available at Guitar Center, the Epiphone SG Standard '61 Maestro Vibrola is constructed from a solid mahogany body with a nitro gloss finish and features a solid mahogany neck. The Epiphone SG Standard '61 Maestro Vibrola is also powered by two Burstbuckers and a newly designed, 60s-style Maestro Vibrola.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Epiphone SG Standard",
       "brand": "Epiphone",
-      "fantasy_color": "Alpine White",
+      "fantasyColor": "Alpine White",
       "color": "white",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "345454",
       "price": 559.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -1425,27 +1471,28 @@
         "bridge": "Burstbucker 61T"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/4429/442971/main_8106c8c1.jpg",
         "https://muzikercdn.com/uploads/product_gallery/4429/442972/main_4df61987.jpg"
       ],
       "desc": "Featured in the new Inspired by Gibson Collection, the Epiphone SG Standard '61 Maestro Vibrola recreates the legendary Gibson model from 1961. Available at Guitar Center, the Epiphone SG Standard '61 Maestro Vibrola is constructed from a solid mahogany body with a nitro gloss finish and features a solid mahogany neck. The Epiphone SG Standard '61 Maestro Vibrola is also powered by two Burstbuckers and a newly designed, 60s-style Maestro Vibrola.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Epiphone SG Standard",
       "brand": "Epiphone",
-      "fantasy_color": "Jet Black Metallic",
+      "fantasyColor": "Jet Black Metallic",
       "color": "black",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "345494189",
       "price": 559.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "HH",
@@ -1454,27 +1501,28 @@
         "bridge": "Burstbucker 61T"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/3862/386213/main_359d7a22.jpgg",
         "https://muzikercdn.com/uploads/product_gallery/3862/386214/main_84298fb4.jpg"
       ],
       "desc": "Featured in the new Inspired by Gibson Collection, the Epiphone SG Standard '61 Maestro Vibrola recreates the legendary Gibson model from 1961. Available at Guitar Center, the Epiphone SG Standard '61 Maestro Vibrola is constructed from a solid mahogany body with a nitro gloss finish and features a solid mahogany neck. The Epiphone SG Standard '61 Maestro Vibrola is also powered by two Burstbuckers and a newly designed, 60s-style Maestro Vibrola.",
-      "country_origin": "Indonesia"
+      "countryOrigin": "Indonesia"
     },
     {
       "name": "Chapman Guitars ML1",
       "brand": "Chapman",
-      "fantasy_color": "Turquoise Rain",
+      "fantasyColor": "Turquoise Rain",
       "color": "green",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "369051",
       "price": 889.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "SS",
@@ -1483,7 +1531,7 @@
         "bridge": "Alnico single-coil"
       },
       "rating": 3,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5455/545579/main_533ffe51.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5455/545580/main_0b7c2af1.jpg",
@@ -1491,21 +1539,22 @@
         "https://muzikercdn.com/uploads/product_gallery/5455/545582/main_8b3d3f38.jpg"
       ],
       "desc": "Channeling the very soul of electric guitar, the Chapman ML3 Pro Traditional is a near-perfect marriage of form and function, putting nothing but the essentials of great tone a playability right in your hands. From the resonant carved swamp ash body to the comfortable neck and dynamically responsive alnico single-coil pickups, the ML3 Pro Traditional reveals the musical voice that's uniquely yours.",
-      "country_origin": "South Korea"
+      "countryOrigin": "South Korea"
     },
     {
       "name": "Chapman Guitars ML1",
       "brand": "Chapman",
-      "fantasy_color": "Cali Sunset Red",
+      "fantasyColor": "Cali Sunset Red",
       "color": "red",
       "type": "Electric Guitar",
+      "category": "guitar",
       "id": "369050",
       "price": 889.0,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "orientation": "Right",
-      "neck_wood": "Mahogany",
-      "fret_number": 22,
+      "neckWood": "Mahogany",
+      "fretNumber": 22,
       "strings": 6,
       "pickups": {
         "config": "SS",
@@ -1514,7 +1563,7 @@
         "bridge": "Alnico single-coil"
       },
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/5922/592245/main_f5e9095b.jpg",
         "https://muzikercdn.com/uploads/product_gallery/5922/592246/main_f967bd78.jpg",
@@ -1522,17 +1571,17 @@
         "https://muzikercdn.com/uploads/product_gallery/5922/592248/main_ab47e643.jpg"
       ],
       "desc": "Channeling the very soul of electric guitar, the Chapman ML3 Pro Traditional is a near-perfect marriage of form and function, putting nothing but the essentials of great tone a playability right in your hands. From the resonant carved swamp ash body to the comfortable neck and dynamically responsive alnico single-coil pickups, the ML3 Pro Traditional reveals the musical voice that's uniquely yours.",
-      "country_origin": "South Korea"
-    }
-  ],
-  "amps": [
+      "countryOrigin": "South Korea"
+    },
+
     {
       "name": "Fender 65 Deluxe Reverb",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "12720",
       "desc": "The Fender '65 Deluxe Reverb Combo Amp has a sound big enough to cut through the muddiest mix, but it's small enough to turn up make the most of natural tube distortion in small clubs. This makes it the perfect studio amp, as well. It's a resurrection of a classic vintage tone monster, and its current iteration is used by many big-name bands, such as Flogging Molly, O.A.R. and Maroon 5. Crank up this faithful, U.S.-made reissue for your daily requirement of fat Fender tone. Delivers 22W through a 12' speaker. Features two channels (normal, vibrato), all-tube circuitry, tube vibrato, tube spring reverb, Blackface cosmetics and two-button footswitch to control the reverb and vibrato effects.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/70/7033/main_14da9625.jpg",
         "https://muzikercdn.com/uploads/product_gallery/999/99927/main_eb5bb6ca.jpg"
@@ -1540,20 +1589,21 @@
       "brand": "Fender",
       "power": "22 W",
       "speakers": "1x 12'",
-      "speaker_type": "Celestion G12V 70",
+      "speakerType": "Celestion G12V 70",
       "reverb": true,
       "price": 1399.0,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "usb": false
     },
     {
       "name": "Fender Bassbreaker 30R 30W",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "301686",
       "desc": "Ripping a page from the supercharged high-gain distortion and spacious reverb of the popular Fender Bassbreaker 15, the 30-watt Bassbreaker 30R adds full channel-switching capability to allow for precise, individual control over your clean and distorted tones—while the built-in effects loop offers yet another dose of custom-tailored personality to your sound. Boasting a single 12” Celestion V-Type speaker, this easily portable combo amp packs quite the punch of distinctively crunchy Bassbreaker tone.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2439/243938/main_83c0e8b0.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2439/243939/main_0354cdd4.jpg",
@@ -1563,20 +1613,21 @@
       "brand": "Fender",
       "power": "30 W",
       "speakers": "1x 12'",
-      "speaker_type": "Celestion G12V 70",
+      "speakerType": "Celestion G12V 70",
       "reverb": true,
       "price": 899.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Fender 65 Twin Reverb",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "7281",
       "desc": "The Fender '65 Twin Reverb Amp is an authentic all-tube reproduction of the original classic! It has earned a reputation of being one of the cleanest tube amps ever, but it delivers a taste of the trademark Fender crunch when cranked up high. Delivers 85W through two Jensen 12' speakers. It has two channels, tube vibrato, tube spring reverb, tilt-back legs and Blackface cosmetics. Includes two-button footswitch to control reverb and vibrato effects. Order the optional Fender amp cover to protect your investment (see accessory box on this page).",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/45/4522/main_2e0411a8.jpg",
         "https://muzikercdn.com/uploads/product_gallery/988/98854/main_ab1f01c8.jpg"
@@ -1584,40 +1635,42 @@
       "brand": "Fender",
       "power": "85 W",
       "speakers": "2x 12'",
-      "speaker_type": "Jensen C12K",
+      "speakerType": "Jensen C12K",
       "reverb": true,
       "price": 1699.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Vox AC15C1",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "14573",
       "desc": "tremolo (speed and depth), 1x12' Celestion G12M Greenback Lautspreche valve, 2 x EL84 Poweramp valves. Control panel functions: input: Normal, control for volume, Standby. 2x rear speaker outputs, impedance switch (8/16 Ohm), dimensions: (W x D x H): 602 x 265 x 456 mm Weight: 22kg, 3x 12AX7 (ECC83) Preamp, treble, power socket, valve, reverb, Top Boost, bass, footswitch optional (198735 LEAD FOOT FS-2)",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/82/8204/main_ccd81f37.jpg"
       ],
       "brand": "Vox",
       "power": "15 W",
       "speakers": "1x 12'",
-      "speaker_type": "Celestion G12M Greenback",
+      "speakerType": "Celestion G12M Greenback",
       "reverb": true,
       "price": 999.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Vox AC30C2",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "16152",
       "desc": "4 Inputs High &amp;amp; Low (Top Boost &amp;amp; Normal), Level, FX send FX Return, Footswitchjack (Tremolo and Reverb), Backside Output for external Cabinet x2 (Extension &amp;amp; External), Treble, Top Boost Volume, Tremolo Speed &amp;amp; Depth, dimensions: 702 x 265 x 556 mm (HxWxD), Reverb-Effect Tone, 2x 12 Celstion G12M Greenback speaker, Switch for 8/16 Ohm, Master Volume, control for Normal Volume, Tone Cut, Bass, weight: 32,2kg, footswitch optional (165749 VOX VFS2A or 198735 LEAD FOOT FS-2)",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/93/9316/main_4f8fd515.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1010/101017/main_2f5e2134.jpg"
@@ -1625,20 +1678,21 @@
       "brand": "Vox",
       "power": "30 W",
       "speakers": "1x 12'",
-      "speaker_type": "Celestion G12M Greenback",
+      "speakerType": "Celestion G12M Greenback",
       "reverb": true,
       "price": 999.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Vox AC10C1",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "222633",
       "desc": "All-tube 10W guitar combo amplifier from AC10 Custom series that is a reproduction of the original AC10, one of the first amplifiers to bear the VOX name that has long been adored for his ability to achieve rich, articulate tube tone at very manageable volumes. More portable than the AC15 and more powerful than the AC4, the combo features the classic Top Boost tone circuit that provides an array of classic and modern tones. Now equipped with reverb and a master volume, it is the perfect companion for the home, studio or stage. The Top Boost tone can be further adjusted via Gain, Bass, Treble, Reverb and Volume controls. The combo is equipped with two 12AX7 and one EL84 tube, and a 10” Celestion VX10 speaker. Dimensions: 520 x 210 x 410 mm. Weight: 12.3 kg.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/342/34250/main_b5058610.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1275/127582/main_b2ed80e2.jpg",
@@ -1648,20 +1702,21 @@
       "brand": "Vox",
       "power": "10 W",
       "speakers": "1x 10'",
-      "speaker_type": "Celestion VX10",
+      "speakerType": "Celestion VX10",
       "reverb": true,
       "price": 499.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Vox AC15C1 LE",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "238249",
       "desc": "The VOX AC15 is the amp that started it all. Boasting both a Normal and Top Boost channel, the AC15 Custom is an all-tube, EL84 driven workhorse that delivers 15 watts of authentic British tone into your choice of a genuine Celestion Greenback speaker. The AC15 Custom also offers footswitchable spring reverb and classic VOX tremolo to enhance the already impressive sound. Adored by the biggest names in music for nearly 60 years, the VOX AC15 Custom carries on the tradition that began in 1958 and offers guitarists the unmistakable sound of VOX, with all the refinements of a modern amplifier. Vox have re-released many of their acclaimed series amplifiers in a limited edition colour, offering you an individual look. Featuring a new Limited Edition White Bronco look. Vox’s long tradition of limited edition custom colour amps have been extremely popular amongst Vox players for decades, due to their uniqueness and tonal abilities. Color: Limited Edition White Bronco.SpecsOutput Power:15 Watts RMS into 16 Ohms - Speaker:1 x 12' 16 ohm Celestion G12M Greenback (AC15C1) - Inputs:Normal input jack, Top Boost input jack, Footswitch jack - Outputs:External loudspeaker jack, Extension loudspeaker jack - Dimensions (W x D x H): 602 x 265 x 456 mm / 23.70 x 10.43 x 17.95 inches - Weight: 22 kg / 48.50 lbs.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/490/49097/main_578f8014.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1457/145745/main_30dd715b.jpg"
@@ -1669,20 +1724,21 @@
       "brand": "Vox",
       "power": "15 W",
       "speakers": "1x 12'",
-      "speaker_type": "Celestion G12M Greenback",
+      "speakerType": "Celestion G12M Greenback",
       "reverb": true,
       "price": 729.99,
-      "in_stock": false,
-      "is_top_seller": false,
+      "inStock": false,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Marshall Studio Vintage SV20C",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "309005",
       "desc": "The SV20C is an all valve handbuilt amp designed and built in the UK, to accurately recreate the classic Marshall tone. The SV20C combines the raw power of the 1959SLP and authentic voice of classic rock in a new portable style. The amp that first defined rock ‘n’ roll in the 60s has been revised for the present day, whilst remaining faithful to the original with its Plexi design and all-valve tone. Still considered a classic by scores of legendary guitarists, the SV20C lets you play like your heroes on stage, in the studio and at home. Portable and adaptable, the Studio Vintage Combo is suitable for the home with the option to switch between 20W and 5W at any time.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2644/264475/main_47b49f41.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2644/264476/main_83b75428.jpg",
@@ -1692,17 +1748,18 @@
       "power": "20 W",
       "reverb": true,
       "price": 899.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Marshall DSL5CR",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "250505",
       "desc": "Portable 5-Watt amplifier for home use or small gigs equipped with 10' Celestion Ten-30 loudspeaker. Preamp tubes: 3 x ECC83, Power tube: 1 x 12BH7 / ECC99. Real valve tone with the organic warmth and response, adjustable power level, compact cabinet with a Celestion Ten-30 speaker for both portability and projection. The amplifier has 2 channels with classic gain and ultra gain for instant sound switching capability, alongside a versatile range of EQ controls (improved for 2018) that let you fully sculpt your sound, bass switch that complements a resonant bass boost, Softube emulated direct output - you can plug the output directly into a mixing desk or recording device and access a high-quality emulation. Ideal for no-fuss recording or for sending a direct signal to your front-of-house mixing desk. Serial FX Loop, Controls: Classic Gain: Gain/Volume, Ultra Gain: Gain/Volume, Tone Shift, Treble, Middle, Bass, Deep, Reverb. Footswitch included.",
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/606/60628/main_410190e9.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1639/163958/main_25558e01.jpg",
@@ -1711,20 +1768,21 @@
       "brand": "Marshall",
       "power": "5 W",
       "speakers": "1x 10'",
-      "speaker_type": "Celestion Ten 30",
+      "speakerType": "Celestion Ten 30",
       "reverb": true,
       "price": 444.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "usb": false
     },
     {
       "name": "Marshall DSL1CR",
-      "type": "Tube",
+      "type": "Tube Amp",
+      "category": "amp",
       "id": "250502",
       "desc": "Tube guitar combo Amp. The combo is equipped with an 8” Celestion Eight-15 speaker chosen for its ability to deliver exceptional tone at lower volumes. The DSL features two foot switchable channels: CLASSIC GAIN and ULTRA GAIN. The CLASSIC GAIN channel delivers sparkling clean sounds through to the more aggressive break-up of a Marshall JCM800 amplifier. The ULTRA GAIN channel provides even more distortion and break-up for players looking for higher gain tone from their amplifier. Both channels share a passive three-band EQ, with BASS, MIDDLE and TREBLE controls. The EQ section also features Tone Shift, which when activated reconfigures the pre-amp mid frequencies making DSL ideal for contemporary metal tones, especially when combined with higher gain settings. The DSL 1 features professional quality digital REVERB and a series FX LOOP, giving you rich valve tone at an ear-friendly volume. Footswitch included.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/606/60625/main_be5d8179.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1639/163956/main_37a9a02b.jpg",
@@ -1733,20 +1791,21 @@
       "brand": "Marshall",
       "power": "1 W",
       "speakers": "1x 8'",
-      "speaker_type": "Celestion Eight 15",
+      "speakerType": "Celestion Eight 15",
       "reverb": true,
       "price": 289.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "usb": false
     },
     {
       "name": "Orange Crush 20RT",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "221246",
       "desc": "2-channel transistor guitar combo from Crush series offering typical Orange sound. It features a 3-band EQ, pre-amplifier with high gain and sensitive overdrive, detailed tone saturation or distorted channel, similar to that of the iconic Rockerverb combo in the transistorized form. Combo offers the power of 20 W and is equipped with one 8' Voice of the World speaker. In addition, it is equipped with a built-in reverb, tuner, or Cabsim function that simulates massive tone of Orange 4 x 12 cabinet through the headphone output. It´s operated by Dirty Gain, Treble, Middle, Bass, Clean/Dirty Volume and Reverb potentiometers, channel switch or tuner switch. Combo has built-in a 1/4' instrument input, headphone output, AUX input or the footswitch input (not included). Dimensions: 375 x 325 x 197 mm, weight: 7.2 kg.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/329/32931/main_d168ad74.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1253/125395/main_73af9c21.jpg",
@@ -1755,20 +1814,21 @@
       "brand": "Orange",
       "power": "20 W",
       "speakers": "1x 8'",
-      "speaker_type": "Voice of the World",
+      "speakerType": "Voice of the World",
       "reverb": true,
       "price": 189.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "usb": false
     },
     {
       "name": "Orange CR60C Crush",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "211156",
       "desc": "1 x 12', 60W Combo Guitar Amplifier with Digital Reverbs, and Effects Loop. Orange Amplifiers expands its line of solid-state Crush amps with new CR60C 60-watt 1 x 12' Combo. This Crush amp delivers more authentic Orange tone than ever, with both amp channels being designed after the Rockerverb. The clean channel sports two gain stages that start to break up when it's cranked, and the dirty channel uses four gain stages to deliver classic Orange overdrive tones.",
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/234/23432/main_29faea5e.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1136/113613/main_3692d0ad.jpg",
@@ -1780,16 +1840,17 @@
       "speakers": "1x 12'",
       "reverb": true,
       "price": 189.99,
-      "in_stock": true,
-      "is_top_seller": true
+      "inStock": true,
+      "isTopSeller": true
     },
     {
       "name": "Boss Katana 212 Cabinet",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "312045",
       "desc": "Speaker cabinet for the Boss Katana amplifier head. The versatile Katana Cabinet 212 is a companion cabinet for the popular Katana-Head guitar amplifier. BOSS’s special design provides enhanced bass response and rugged durability while keeping the weight down for easy mobility. The cabinet comes loaded with two custom 12-inch speakers that deliver powerful, punchy sound with rich, full bottom end, offering exceptional performance for tones from super-clean to ultra-heavy. And with the detachable back panel section, you can easily go from a tight and focused closed-back stack tone to the spacious open-back sound of a classic combo.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/2691/269180/main_fae10011.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2691/269181/main_a7d77035.jpg"
@@ -1799,17 +1860,18 @@
       "speakers": "2x 12'",
       "reverb": true,
       "price": 189.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "usb": true
     },
     {
       "name": "Boss Nextone Artist",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "295477",
       "desc": "Electric guitar combo amplifier. Combining classic tube sound and feel with next-generation tonal diversity, the BOSS Nextone series presents an exciting new concept in professional guitar amplification. Distinctive channel voicings deliver a wide range of inspiring tones, while four selectable Class AB analog power amp types provide instant access to the unique characteristics of 6V6, 6L6, EL84, and EL34 output tube sections. Backed by our advanced Tube Logic approach, each power amp type re-voices the entire circuit from input to output, putting the complete sonic experience of these signature power stages in one amp for the very first time. Connect to the Nextone Editor and become a virtual tech, fine-tuning bias, sag, EQ, and other internal settings to perfectly match your individual style and touch. Nextone also includes convenient modern features for stage playing, such as built-in effects, a line out for mic-free direct tone, and a power control for expressive cranked-amp sound at manageable volumes. And thanks to Tube Logic, you get to enjoy all the great sound and response of your favorite tube designs without the backbreaking weight and ongoing maintenance hassles.",
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/954/95490/main_4a7a52be.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2101/210141/main_584e47e5.jpg",
@@ -1819,20 +1881,21 @@
       "brand": "Boss",
       "power": "80 W",
       "speakers": "1x 12'",
-      "speaker_type": "Boss G12 100",
+      "speakerType": "Boss G12 100",
       "reverb": true,
       "price": 533.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": true
     },
     {
       "name": "Vox PATHFINDER 10",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "17054",
       "desc": "Compact solid-state all-analog 10-watt guitar combo amplifier from Pathfinder series with classical Vox design that includes basket-weave, leather-look, distinctive diamond grille cloth and chicken head knobs. It is equipped with 6.5” VOX Bulldog speaker and Gain, Treble, Bass, Volume control knobs and Clean/Overdrive switch. Amplifier provides connectivity via instrument jack input and phones/line jack output. Dimensions: 380 x 260 x 170 mm. Weight: 4.8 kg.",
       "rating": 3,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/3338/333853/main_322dea16.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1016/101672/main_c98fd257.jpg",
@@ -1842,20 +1905,21 @@
       "brand": "Vox",
       "power": "10 W",
       "speakers": "1x 6,5'",
-      "speaker_type": "VOX Bulldog",
+      "speakerType": "VOX Bulldog",
       "reverb": false,
       "price": 79.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "usb": false
     },
     {
       "name": "Fender Frontman 10G",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "9383",
       "desc": "For the beginning electric guitarist or anyone who wants a small, easy-to-use practice amp with quality tone and a great price, the Frontman 10G is at your service. Conveniently compact and built with classic Fender style, it delivers full sound from its 6' speaker, with a gain control and overdrive switch that rock guitar tones from tube-emulated overdrive to full-strength ultra-saturated distortion—perfect for blues, metal and famous Fender clean tone.",
       "rating": 2,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/57/5737/main_59e3bf43.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2841/284187/main_6af2f2e0.jpg"
@@ -1863,40 +1927,42 @@
       "brand": "Fender",
       "power": "10 W",
       "speakers": "1x 6'",
-      "speaker_type": "Special Design",
+      "speakerType": "Special Design",
       "reverb": false,
       "price": 65.99,
-      "in_stock": true,
-      "is_top_seller": true,
+      "inStock": true,
+      "isTopSeller": true,
       "usb": false
     },
     {
       "name": "Fender Champion 50XL",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "285965",
       "desc": "Digital guitar combo from Fender Champion series in limited edition. Featuring a range of built-in amp models and 12 effects classic effects built in ranging from reverb and delay to vibraphone and 4 built-in stompbox effects including compressor, overdrive, distortion and octaver. The Fender Champion 50XL amp boasts a generous 50-Watt output via a well-appointed 12-inch custom Celestion 'Midnight 60' speaker, which delivers your tone with absolute clarity. There are two channels at your disposal consisting of Blackface clean and one with selectable amp voices. The Blackface clean tone produces that legendary jangly sound with cutting mid to high energy. The switchable amp voices allow you to tweak your amp's character to suit a plethora of musical styles from jazz to metal, country to punk, and everywhere in-between. Optional 2-button footswitch for channel selection and effect toggling / footswitch not included, TAP button to match the song’s tempo, 3,5 mm stereo auxiliary input for jamming with media player, 3,5 mm stereo headphone output for silent practice. Dimensions (H x W x D): 438 x 438 x 229 mm. Weight: 8,6 kg. Colour: Black.",
       "rating": 5,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/862/86296/main_04d98af6.jpg"
       ],
       "brand": "Fender",
       "power": "50 W",
       "speakers": "1x 12'",
-      "speaker_type": "Celestion",
+      "speakerType": "Celestion",
       "reverb": true,
       "price": 211.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Fender Champion 20",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "212013",
       "desc": "Versatile 20-watt combo guitar amplifier from Champion series that delivers a selection of warm tones perfect for practising and performing for beginners and slightly advanced players. Solid-state design features one channel with Selectable Amp Voice that allows for dial-in of specific amp voices to suit the style of the player. Amplifier is equipped with one 8” Fender Special Design speaker, and a wide range of effects including reverb, chorus, flanger, delay, Vibratone and more, with dedicated Tap Tempo button. Other controls include Gain, Volume, Voice, Treble, Bass, FX Level, and FX Select. It also features one instrument 1/4' input, 1/8' aux input for external media device, and 1/8' headphone output. Amplifier delivers classic Fender Blackface styling with silver grill and sturdy handle. Dimensions: 325 x 350 x 190 mm. Weight: 5.4 kg.",
       "rating": 3,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/242/24267/main_d8aeff86.jpg",
         "https://muzikercdn.com/uploads/product_gallery/1146/114662/main_948c8ed2.jpg",
@@ -1905,20 +1971,21 @@
       "brand": "Fender",
       "power": "20 W",
       "speakers": "1x 8'",
-      "speaker_type": "Special Design",
+      "speakerType": "Special Design",
       "reverb": true,
       "price": 119.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Fender Champion 40",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "212014",
       "desc": "Versatile 2-channel 40-watt combo guitar amplifier from Champion series that delivers a selection of warm tones perfect for practising and performing for beginners and slightly advanced players. Solid-state design features two channels, Blackface Clean and a Selectable Amp Voice that allows for dial-in of specific amp voices to suit the style of the player. Amplifier is equipped with one 12” Fender Special Design speaker, and a wide range of effects including reverb, chorus, flanger, delay, Vibratone and more, with dedicated Tap Tempo button. Other controls include Gain, Volume 1 and 2, Voice, Treble, Bass, FX Level, and FX Select. It also features one instrument 1/4' input, 1/8' aux input for external media device, and 1/8” headphone output. Amplifier deliver classic Fender Blackface styling with silver grill and sturdy handle. Dimensions: 438 x 229 x 438 mm. Weight: 8.6 kg.",
       "rating": 4,
-      "is_on_sale": true,
+      "isOnSale": true,
       "images": [
         "https://muzikercdn.com/uploads/products/242/24268/main_a35a6f13.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2871/287178/main_af14eb6a.jpg",
@@ -1928,20 +1995,21 @@
       "brand": "Fender",
       "power": "40 W",
       "speakers": "1x 12'",
-      "speaker_type": "Special Design",
+      "speakerType": "Special Design",
       "reverb": true,
       "price": 177.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     },
     {
       "name": "Fender Champion 100",
-      "type": "Solid State",
+      "type": "Solid State Amp",
+      "category": "amp",
       "id": "212015",
       "desc": "Versatile 2-channel 100-watt combo guitar amplifier from Champion series that delivers a selection of warm tones perfect for practising and performing for beginners and slightly advanced players. Solid-state design features two channels with Selectable Amp Voice that allows for dial-in of specific amp voices to suit the style of the player. Amplifier is equipped with two 12” Fender Special Design speaker, and a wide range of effects including reverb, chorus, flanger, delay/echo, Vibratone and more, with dedicated Tap Tempo button. Other controls include Gain, Volume, Voice, Treble, Bass, FX Level, and FX Select. It also features one instrument 1/4' input, 1/8” aux input for external media device, and 1/8” headphone output. Amplifier delivers classic Fender Blackface styling with silver grill and sturdy handle. 2-button footswitch pedal is included. Dimensions: 260 x 660 x 490 mm. Weight: 18.2 kg.",
       "rating": 4,
-      "is_on_sale": false,
+      "isOnSale": false,
       "images": [
         "https://muzikercdn.com/uploads/products/242/24269/main_2ec43c64.jpg",
         "https://muzikercdn.com/uploads/product_gallery/2871/287191/main_e629acde.jpg",
@@ -1950,11 +2018,11 @@
       "brand": "Fender",
       "power": "100 W",
       "speakers": "2x 12'",
-      "speaker_type": "Special Design",
+      "speakerType": "Special Design",
       "reverb": true,
       "price": 287.99,
-      "in_stock": true,
-      "is_top_seller": false,
+      "inStock": true,
+      "isTopSeller": false,
       "usb": false
     }
   ]
