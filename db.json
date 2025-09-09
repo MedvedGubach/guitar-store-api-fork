@@ -246,7 +246,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -272,7 +271,6 @@
       "neckWood": "Maple",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -298,7 +296,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -725,7 +722,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -754,7 +750,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -784,7 +779,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -811,7 +805,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -836,7 +829,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": true,
       "images": [
@@ -861,7 +853,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 18,
       "strings": 6,
-
       "rating": 3,
       "isOnSale": false,
       "images": [
@@ -890,7 +881,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -918,7 +908,6 @@
       "neckWood": "Mahogany",
       "fretNumber": 20,
       "strings": 6,
-
       "rating": 5,
       "isOnSale": false,
       "images": [
@@ -1573,7 +1562,6 @@
       "desc": "Channeling the very soul of electric guitar, the Chapman ML3 Pro Traditional is a near-perfect marriage of form and function, putting nothing but the essentials of great tone a playability right in your hands. From the resonant carved swamp ash body to the comfortable neck and dynamically responsive alnico single-coil pickups, the ML3 Pro Traditional reveals the musical voice that's uniquely yours.",
       "countryOrigin": "South Korea"
     },
-
     {
       "name": "Fender 65 Deluxe Reverb",
       "type": "Tube Amp",
@@ -2024,6 +2012,137 @@
       "inStock": true,
       "isTopSeller": false,
       "usb": false
+    }
+  ],
+  "pedals": [
+    {
+      "id": 1,
+      "name": "Boss DS-1",
+      "brand": "Boss",
+      "type": "Effects Pedal",
+      "category": "pedal",
+      "effect": "Distortion",
+      "price": 70,
+      "inStock": true,
+      "isTopSeller": true,
+      "rating": 5,
+      "isOnSale": false,
+      "images": [
+        "https://res.cloudinary.com/your-account/image/upload/ds1.jpg"
+      ],
+      "desc": "Classic distortion pedal used by countless guitarists since the late 70s. Known for its aggressive tone and simplicity.",
+      "power": "9V battery or DC adapter",
+      "dimensions": "2.4 x 2.9 x 5.1 in",
+      "weight": "400g",
+      "releaseYear": 1978,
+      "features": [
+        "Level knob",
+        "Tone knob",
+        "Distortion knob"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Electro-Harmonix Big Muff Pi",
+      "brand": "Electro-Harmonix",
+      "type": "Effects Pedal",
+      "category": "pedal",
+      "effect": "Fuzz",
+      "price": 85,
+      "inStock": true,
+      "isTopSeller": true,
+      "rating": 5,
+      "isOnSale": false,
+      "images": [
+        "https://res.cloudinary.com/your-account/image/upload/bigmuff.jpg"
+      ],
+      "desc": "Iconic fuzz pedal famous for its thick, creamy sustain. Used by David Gilmour, Smashing Pumpkins and many more.",
+      "power": "9V battery or DC adapter",
+      "dimensions": "2.75 x 4.75 x 6.5 in",
+      "weight": "600g",
+      "releaseYear": 1969,
+      "features": [
+        "Sustain knob",
+        "Tone knob",
+        "Volume knob"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ibanez TS9 Tube Screamer",
+      "brand": "Ibanez",
+      "type": "Effects Pedal",
+      "category": "pedal",
+      "effect": "Overdrive",
+      "price": 100,
+      "inStock": true,
+      "isTopSeller": true,
+      "rating": 5,
+      "isOnSale": false,
+      "images": [
+        "https://res.cloudinary.com/your-account/image/upload/ts9.jpg"
+      ],
+      "desc": "Legendary overdrive pedal, praised for its warm midrange boost. Essential for blues and rock guitar tones.",
+      "power": "9V battery or DC adapter",
+      "dimensions": "2.2 x 3.9 x 4.9 in",
+      "weight": "580g",
+      "releaseYear": 1982,
+      "features": [
+        "Drive knob",
+        "Tone knob",
+        "Level knob"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Boss DD-7 Digital Delay",
+      "brand": "Boss",
+      "type": "Effects Pedal",
+      "category": "pedal",
+      "effect": "Delay",
+      "price": 160,
+      "inStock": true,
+      "isTopSeller": false,
+      "rating": 4,
+      "isOnSale": true,
+      "images": [
+        "https://res.cloudinary.com/your-account/image/upload/dd7.jpg"
+      ],
+      "desc": "Versatile digital delay pedal with up to 6.4 seconds of delay time, modulation, and tap tempo functionality.",
+      "power": "9V battery or DC adapter",
+      "dimensions": "2.4 x 2.9 x 5.1 in",
+      "weight": "450g",
+      "releaseYear": 2008,
+      "features": [
+        "Delay time knob",
+        "Feedback knob",
+        "Level knob",
+        "Tap tempo input"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "MXR Phase 90",
+      "brand": "MXR",
+      "type": "Effects Pedal",
+      "category": "pedal",
+      "effect": "Phaser",
+      "price": 80,
+      "inStock": true,
+      "isTopSeller": false,
+      "rating": 4,
+      "isOnSale": false,
+      "images": [
+        "https://res.cloudinary.com/your-account/image/upload/phase90.jpg"
+      ],
+      "desc": "Simple but powerful phaser pedal with a single speed knob. Known for its swirling, spacey sound.",
+      "power": "9V battery or DC adapter",
+      "dimensions": "2.3 x 4.5 x 5.5 in",
+      "weight": "400g",
+      "releaseYear": 1974,
+      "features": [
+        "Speed knob"
+      ]
     }
   ]
 }
