@@ -2012,9 +2012,7 @@
       "inStock": true,
       "isTopSeller": false,
       "usb": false
-    }
-  ],
-  "pedals": [
+    },
     {
       "id": 1,
       "name": "Boss DS-1",
