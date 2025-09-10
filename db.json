@@ -2026,7 +2026,9 @@
       "rating": 5,
       "isOnSale": false,
       "images": [
-        "https://res.cloudinary.com/your-account/image/upload/ds1.jpg"
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466060/BossDS1_yfhgv0.webp",
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466060/BossDS1-2_bj6fhp.webp",
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466060/BossDS1-3_ykwmuk.webp"
       ],
       "desc": "Classic distortion pedal used by countless guitarists since the late 70s. Known for its aggressive tone and simplicity.",
       "power": "9V battery or DC adapter",
@@ -2046,13 +2048,13 @@
       "type": "Effects Pedal",
       "category": "pedal",
       "effect": "Fuzz",
-      "price": 85,
+      "price": 95,
       "inStock": true,
       "isTopSeller": true,
       "rating": 5,
       "isOnSale": false,
       "images": [
-        "https://res.cloudinary.com/your-account/image/upload/bigmuff.jpg"
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466275/EHBigMuff_vodqg5.webp"
       ],
       "desc": "Iconic fuzz pedal famous for its thick, creamy sustain. Used by David Gilmour, Smashing Pumpkins and many more.",
       "power": "9V battery or DC adapter",
@@ -2078,7 +2080,9 @@
       "rating": 5,
       "isOnSale": false,
       "images": [
-        "https://res.cloudinary.com/your-account/image/upload/ts9.jpg"
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466389/IbanesTS9-1_lxsfpc.webp",
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466389/IbanesTS9-2_oltaae.webp",
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466389/IbanesTS9-3_bscseo.webp"
       ],
       "desc": "Legendary overdrive pedal, praised for its warm midrange boost. Essential for blues and rock guitar tones.",
       "power": "9V battery or DC adapter",
@@ -2093,18 +2097,20 @@
     },
     {
       "id": 4,
-      "name": "Boss DD-7 Digital Delay",
+      "name": "BOSS DD-3T Digital Delay",
       "brand": "Boss",
       "type": "Effects Pedal",
       "category": "pedal",
       "effect": "Delay",
-      "price": 160,
+      "price": 150,
       "inStock": true,
-      "isTopSeller": false,
+      "isTopSeller": true,
       "rating": 4,
       "isOnSale": true,
       "images": [
-        "https://res.cloudinary.com/your-account/image/upload/dd7.jpg"
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466757/BossDD3T-1_lauhiw.webp",
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466758/BossDD3T-2_hlsn78.webp",
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466757/BossDD3T-3_vjnjw1.webp"
       ],
       "desc": "Versatile digital delay pedal with up to 6.4 seconds of delay time, modulation, and tap tempo functionality.",
       "power": "9V battery or DC adapter",
@@ -2125,13 +2131,15 @@
       "type": "Effects Pedal",
       "category": "pedal",
       "effect": "Phaser",
-      "price": 80,
+      "price": 90,
       "inStock": true,
-      "isTopSeller": false,
+      "isTopSeller": true,
       "rating": 4,
       "isOnSale": false,
       "images": [
-        "https://res.cloudinary.com/your-account/image/upload/phase90.jpg"
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466763/MXRP90-1_esburp.webp",
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466764/MXRP90-2_elsmq2.webp",
+        "https://res.cloudinary.com/dvqnxq5g5/image/upload/v1757466763/MXRP90-3_ri9e3h.webp"
       ],
       "desc": "Simple but powerful phaser pedal with a single speed knob. Known for its swirling, spacey sound.",
       "power": "9V battery or DC adapter",
